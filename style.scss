@@ -157,7 +157,7 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  background-color: $favGreen;
+  background-color: $orange;
 
   @include mobile {
     text-align: center;
@@ -169,7 +169,6 @@ img {
   width: 70px;
   height: 70px;
   margin-right: 15px;
-  border: 1px solid $white;
 
   @include mobile {
     float: none;
@@ -179,6 +178,7 @@ img {
 
   img {
     border-radius: 5px;
+	  border: 1px solid $white;
   }
 }
 
