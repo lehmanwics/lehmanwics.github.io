@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MonthDaysOfCode Challenge with NSBE-SHPE: Day 1
+title: 30DaysOfCode Challenge with NSBE-SHPE Day 1
 excerpt_separator: <!--more-->
 ---
 
