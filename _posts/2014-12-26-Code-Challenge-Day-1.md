@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 30DaysOfCode Challenge: Day 1
+title: 30DaysOfCode Challenge
 excerpt_separator: <!--more-->
 ---
 
