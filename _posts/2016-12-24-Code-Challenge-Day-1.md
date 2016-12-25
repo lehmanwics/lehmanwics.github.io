@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 30DaysOfCode Challenge
+title: 30DaysOfCode Challenge - Day 1
 excerpt_separator: <!--more-->
+published: true
 ---
 
 I am participating in the #30daysofcode challenge set up for the members of NSBE-SHPE at Lehman College. 
@@ -20,4 +21,4 @@ I don't know anything about Java file I/O yet so this will be a great way for me
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3RNYUKxAgmw" target="_blank"><img src="http://img.youtube.com/vi/3RNYUKxAgmw/0.jpg" 
 alt="Java Programming Tutorial - 81 - Reading from Files" width="240" height="180" border="10" /></a>
 
-Day 2 coming up tomorrow. 
+Day 2 coming up tomorrow.
