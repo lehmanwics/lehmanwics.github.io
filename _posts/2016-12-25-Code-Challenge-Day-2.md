@@ -4,6 +4,8 @@ title: 30DaysOfCode - Day 2
 excerpt_separator: <!--more-->
 ---
 
+_UPDATE: Will use screenshots sparingly next time. Better to paste the code directly and use screenshots to show errors/exceptions._
+
 Merry Christmas everyone! 
 
 Today marks day 2 of the 30DaysOfCode challenge. Yesterday I spent the better part of the morning setting up this Jekyll blog and working my way through markdown. I've got the basics down right now which should get me through these posts.
