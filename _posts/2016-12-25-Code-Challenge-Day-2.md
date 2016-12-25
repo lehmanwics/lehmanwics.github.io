@@ -34,7 +34,7 @@ I call the ```File.exists()``` method on my ```file``` object to check if my pro
 
 Womp Womp.
 
-So very few lines of code and it looks right but I know I am doing something wrong. I am going to check in Eclipse to make sure it's not just Codenvy's file structure not reading the file correctly although I did try to create the fil in the root of the project folder and that did not work either. Still returned a ```false``` value.
+So very few lines of code and it looks right but I know I am doing something wrong. I am going to check in Eclipse to make sure it's not just Codenvy's file structure not reading the file correctly although I did try to create the file in the root of the project folder and that did not work either. Still returned a ```false``` value.
 
 I will be spending time with my family for Christmas after I am out of work and will hopefully have some time in the evening to figure this out.
 
