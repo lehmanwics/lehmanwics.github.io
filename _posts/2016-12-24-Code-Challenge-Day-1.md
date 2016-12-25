@@ -2,7 +2,6 @@
 layout: post
 title: 30DaysOfCode - Day 1
 excerpt_separator: <!--more-->
-published: true
 ---
 
 I am participating in the #30daysofcode challenge set up for the members of NSBE-SHPE at Lehman College. 
