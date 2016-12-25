@@ -2,7 +2,6 @@
 layout: post
 title: 30DaysOfCode - Day 2
 excerpt_separator: <!--more-->
-published: true
 ---
 
 Merry Christmas everyone! 
