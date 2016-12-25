@@ -1,7 +1,10 @@
 ---
-published: false
+layout: post
+title: 30DaysOfCode - Day 2
+excerpt_separator: <!--more-->
+published: true
 ---
-##30DaysOfCode - Day 2
+
 
 Merry Christmas everyone! 
 
@@ -14,7 +17,7 @@ I appreciated that he carefully explained what he was coding and how it worked. 
 To do so, I first imported the ```java.io.*``` package to use classes like ```File``` later. I also imported the Java utility package as a precaution because I will need to use ```Scanner``` class and others later. 
 
 This is the start of my class so far:
-
+<!--more-->
 ![Start of Class]({{site.baseurl}}/_posts/Fello--StartOfClass.PNG)
 
 Plain and simple! I will need to add an IOException to the main class and I will show that later.
