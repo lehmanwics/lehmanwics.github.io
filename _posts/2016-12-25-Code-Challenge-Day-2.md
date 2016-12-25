@@ -12,12 +12,14 @@ Today marks day 2 of the 30DaysOfCode challenge. Yesterday I spent the better pa
 
 I watched TheNewBoston video I posted about yesterday along with some other videos that seemed a lot more helpful. Specifically, [Nathan Schutz](https://www.youtube.com/channel/UCbJnFSkT67nSK2oxQjoKvRg "Nathan Schutz Youtube Channel") 5-part Reading Java Files series here: [https://www.youtube.com/watch?v=YXpgcRa7_sg](https://www.youtube.com/watch?v=YXpgcRa7_sg "5-part Reading Java Files series")
 
-I appreciated that he carefully explained what he was coding and how it worked. After watching a few more videos, I started testing this out. First, I wanted to make sure the file worked so I didn't start coding and wondering why the heck my methods were failing.
+I appreciated that he carefully explained what he was coding and how it worked. After watching a few more videos, I started testing this out. 
 
+First, I wanted to make sure the file worked so I didn't start coding and wondering why the heck my methods were failing.
+<!--more-->
 To do so, I first imported the ```java.io.*``` package to use classes like ```File``` later. I also imported the Java utility package as a precaution because I will need to use ```Scanner``` class and others later. 
 
 This is the start of my class so far:
-<!--more-->
+
 ![Start of Class](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Fello--StartOfClass.PNG)
 
 Plain and simple! I will need to add an IOException to the main class and I will show that later.
