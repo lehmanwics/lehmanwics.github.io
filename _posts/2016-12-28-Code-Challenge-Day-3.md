@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 30DaysOfCode - Day 3
 excerpt_separator: <!--more-->
 ---
