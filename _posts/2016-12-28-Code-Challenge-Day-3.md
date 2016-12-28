@@ -12,8 +12,8 @@ I had moved the file from my src folder to the root of the project folder and it
 Here's my code again from before: 
 
 ```
-import java.io.*;
-import java.util.*;
+import java.io.*; // Needed for File and IOException
+import java.util.*; // Needed for Scanner class
 
 public class Fello {
     
@@ -22,9 +22,31 @@ public class Fello {
         
         File file = new File("hello2.txt");
         System.out.println(file.exists());
-
+        
     } //end of main
 
-} //end of Fello class
+} //end of class
 ```
-gfdfg
+
+Now, I can start using the ```Scanner``` class to read lines from the file. See below for the setup:
+
+```
+import java.io.*; // Needed for File and IOException
+import java.util.*; // Needed for Scanner class
+
+public class Fello {
+    
+    
+    public static void main (String[] args) throws IOException {
+        
+        File file = new File("hello2.txt");
+        Scanner txtFile = new Scanner(file);
+        
+    } //end of main
+
+} //end of class
+```
+
+Again, the first statement creates a ```file``` object that represents the file hello2.txt, also opening the file. The second statement passes a reference to the ```file``` object instead of ```System.in``` to the ```Scannner``` class constructor.
+
+Next, I want to read line
