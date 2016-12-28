@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## 30DaysOfCode - Day 3
 
