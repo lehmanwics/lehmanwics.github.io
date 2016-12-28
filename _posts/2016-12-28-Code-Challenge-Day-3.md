@@ -76,5 +76,14 @@ public class Fello {
 } //end of class
 ```
 
+The result is:
+```
+The first line in the file is:
+Hello, it's me
+```
+
+If we check against the hello2.txt file in the project we see that is correct!
+
+![Read Line Result]({{site.baseurl}}/_posts/Fello--ReadLineResult.PNG)
 
 
