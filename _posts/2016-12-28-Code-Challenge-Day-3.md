@@ -86,4 +86,11 @@ If we check against the hello2.txt file in the project we see that is correct!
 
 ![Read Line Result]({{site.baseurl}}/_posts/Fello--ReadLineResult.PNG)
 
+The last part is to read the text file in it's entirety. I found there are a few ways to do this and the way that makes most sense for me is a while loop.
+
+With a while loop I can have the program check if the file has another line and print each line while that's true. This is the code I have for that:
+
+
+
+
 
