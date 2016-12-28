@@ -1,7 +1,9 @@
 ---
+layout: post
 published: true
+title: 30DaysOfCode - Day 3
+excerpt_separator: <!--more-->
 ---
-## 30DaysOfCode - Day 3
 
 The last two days I didn't get any coding done besides looking through my Java textboook. Back to schedule today, day 3!
 
@@ -27,7 +29,7 @@ public class Fello {
 
 } //end of class
 ```
-
+<!--more-->
 Now, I can start using the ```Scanner``` class to read lines from the file. See below for the setup:
 
 ```
@@ -84,7 +86,7 @@ Hello, it's me
 
 If we check against the hello2.txt file in the project we see that is correct!
 
-![Read Line Result]({{site.baseurl}}/_posts/Fello--ReadLineResult.PNG)
+![Read Line Result](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Fello--ReadLineResult.PNG)
 
 The last part is to read the text file in it's entirety. I found there are a few ways to do this and the way that makes most sense for me is a while loop.
 
@@ -158,7 +160,7 @@ public class Fello {
 
 It prints out the entire file as expected:
 
-![Print File]({{site.baseurl}}/_posts/Fello--PrintFile.PNG)
+![Print File](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Fello--PrintFile.PNG)
 
 Next, I will be working on my methods:
 
@@ -168,6 +170,4 @@ Next, I will be working on my methods:
 4. Print the resulting file
 
 On to day 4 tomorrow!
-
-
 
