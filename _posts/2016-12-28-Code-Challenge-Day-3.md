@@ -49,4 +49,29 @@ public class Fello {
 
 Again, the first statement creates a ```file``` object that represents the file hello2.txt, also opening the file. The second statement passes a reference to the ```file``` object instead of ```System.in``` to the ```Scannner``` class constructor.
 
-Next, I want to read line
+Next, I want to read just the first line of the file. I can do so by creating a String to store the ```.nextline()``` in the file and print it to the console like so:
+
+```
+import java.io.*; // Needed for File and IOException
+import java.util.*; // Needed for Scanner class
+
+public class Fello {
+    
+    
+    public static void main (String[] args) throws IOException {
+        
+        // Open file
+        File file = new File("hello2.txt");
+        Scanner txtFile = new Scanner(file);
+        
+        // Read first line in the file
+        String readLine = txtFile.nextLine();
+        
+        // Print the first line
+        System.out.println(readLine);
+        
+    } //end of main
+
+} //end of class
+```
+
