@@ -57,7 +57,7 @@ import java.util.*; // Needed for Scanner class
 
 public class Fello {
     
-    
+
     public static void main (String[] args) throws IOException {
         
         // Open file
@@ -68,10 +68,13 @@ public class Fello {
         String readLine = txtFile.nextLine();
         
         // Print the first line
+        System.out.println("The first line in the file is:");
         System.out.println(readLine);
         
     } //end of main
 
 } //end of class
 ```
+
+
 
