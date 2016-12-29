@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 30DaysOfCode - Day 3
+title: 30DaysOfCode - Day 4
 excerpt_separator: <!--more-->
 ---
 
