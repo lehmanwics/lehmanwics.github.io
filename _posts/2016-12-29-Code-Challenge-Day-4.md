@@ -62,7 +62,7 @@ public class Fello {
 
 ```
 ![Fello Final Program](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Fello--FinalProgram.PNG)
-(__At some point I started changing goodbye to random foods. No regrets__)
+(*At some point I started changing goodbye to random foods. No regrets*)
 ----------------------
 
 I spread this project out over several days so I could research what I was implementing and understand what I was doing and all told, the actual coding was probably about 2 hours or less in total with the rest of the time spent researching, reading, and troubleshooting my Codenvy environment. 
