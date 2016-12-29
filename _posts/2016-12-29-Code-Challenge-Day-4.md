@@ -4,7 +4,7 @@ title: 30DaysOfCode - Day 4
 excerpt_separator: <!--more-->
 ---
 
-Day 4 is here and it's going well...too well. I didn't need to do much to get my program to replace one word, "hello", with another word, "goodbye". 
+Day 4 is here and it's going well. I didn't need to do much to get my program to replace one word, "hello", with another word, "goodbye". 
 
 I used the ```.replaceAll()`` method to replace the string:
 
