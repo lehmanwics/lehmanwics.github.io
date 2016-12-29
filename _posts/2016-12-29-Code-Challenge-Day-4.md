@@ -67,7 +67,7 @@ public class Fello {
 (*At some point I started changing goodbye to random foods. No regrets*)
 ----------------------
 
-I spread this project out over several days so I could research what I was implementing and understand what I was doing and all told, the actual coding was probably about 2 hours or less in total with the rest of the time spent researching, reading, and troubleshooting my Codenvy environment. 
+I spread this project out over several days so I could research what I was implementing and understand what I was doing and all told, the actual coding was probably about an hour in total with the rest of the time spent researching, reading, and troubleshooting my Codenvy environment. 
 
 The solution is not very elegant (yet) but I am happy it works. I am plenty sure there are multiple ways to do this as well. 
 
