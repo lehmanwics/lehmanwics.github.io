@@ -4,7 +4,7 @@ title: 30DaysOfCode - Day 4
 excerpt_separator: <!--more-->
 ---
 
-EDIT: Fellow NSBE member alerted me to the double exceptions I had in my code. Removed the ```throws IOException``` clause from my main method and kept try/catch since I don't need both.
+EDIT: Fellow NSBE member alerted me to the double exceptions I had in my code. Removed the ```throws IOException``` clause from my main method and surrounded all the code in a try/catch since I don't need both. 
 
 Day 4 is here and it's going well. I didn't need to do much to get my program to replace one word, "hello", with another word, "goodbye". 
 
@@ -29,36 +29,35 @@ import java.util.*; // Needed for Scanner class
 
 public class Fello {
 
+ public static void main(String[] args) {
 
-    public static void main(String[] args) {
+   // Start of try/catch block
+   try {
 
-        // Open file
-        File file = new File("hello2.txt");
-        Scanner txtFile = new Scanner(file);
+    // Open file
+    File file = new File("hello2.txt");
+    Scanner txtFile = new Scanner(file);
 
-		// Start of try/catch block
-        try {
+    // While loop to print each line
+    while (txtFile.hasNextLine()) {
 
-            // While loop to print each line
-            while (txtFile.hasNextLine()) {
+     // Read a line
+     String readLine = txtFile.nextLine();
+     // Replace a string with another string
+     String replaceLine = readLine.replaceAll("(?i)hello", "goodbye");
+     // Print each line
+     System.out.println(replaceLine);
 
-                // Read a line
-                String readLine = txtFile.nextLine();
-                // Replace a string with another string
-                String replaceLine = readLine.replaceAll("(?i)hello", "goodbye");
-                // Print each line
-                System.out.println(replaceLine);
+    } // end of while loop
 
-            } // end of while loop
+   } catch (Exception e) {
 
-        } catch (Exception e) {
+    // Print stacktrace if exception found
+    e.printStackTrace();
 
-            // Print stacktrace if exception found
-            e.printStackTrace();
+   } // End of catch
 
-        } // End of catch
-
-    } // End of main
+  } // End of main
 
 } // End of class
 
