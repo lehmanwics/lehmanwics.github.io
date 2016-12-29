@@ -1,7 +1,8 @@
 ---
-published: false
+layout: post
+title: 30DaysOfCode - Day 3
+excerpt_separator: <!--more-->
 ---
-## 30DaysOfCode - Day 3
 
 Day 4 is here and it's going well...too well. I didn't need to do much to get my program to replace one word, "hello", with another word, "goodbye". 
 
@@ -18,6 +19,7 @@ These are some great resources to learn more about regular expressions:
 -[Specifying Modes Inside The Regular Expression](http://www.regular-expressions.info/modifiers.html "Specifying Modes Inside The Regular Expression")
 
 My final program to replace a string in a text file with another string looks like this:
+<!--more-->
 
 ```
 import java.io.*; // Needed for File and IOException
