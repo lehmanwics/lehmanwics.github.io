@@ -4,6 +4,8 @@ title: 30DaysOfCode - Day 4
 excerpt_separator: <!--more-->
 ---
 
+EDIT: Fellow NSBE member alerted me to the double exceptions I had in my code. Removed the ```throws IOException``` clause from my main method and kept try/catch since I don't need both.
+
 Day 4 is here and it's going well. I didn't need to do much to get my program to replace one word, "hello", with another word, "goodbye". 
 
 I used the ```.replaceAll()``` method to replace the string:
@@ -28,7 +30,7 @@ import java.util.*; // Needed for Scanner class
 public class Fello {
 
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
 
         // Open file
         File file = new File("hello2.txt");
@@ -97,4 +99,3 @@ For the second iteration I will be working on turning this into a GUI to accept 
 In the meantime, I will also be going to the second project to create a GUI with two toggle buttons as referenced in my [Day 1](https://seerocode.github.io/Code-Challenge-Day-1/ "Day 1") post.
 
 Let's go, day 5 next!
-
