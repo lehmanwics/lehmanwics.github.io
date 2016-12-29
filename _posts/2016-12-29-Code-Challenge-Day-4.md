@@ -10,7 +10,7 @@ I used the ```.replaceAll()``` method to replace the string:
 
 ```public String replaceAll(String regex, String replacement)``` 
 
-I added a case-sensitive switch ```(?i)``` to the regex in order to make the case insensitive. This means that even if "hello" is found as "**h**ello" in the file it will still replace it with "goodbye". 
+I added a case-sensitive switch ```(?i)``` to the regex in order to make the case insensitive. This means that even if "hello" is found as "**H**ello" in the file it will still replace it with "goodbye". 
 
 These are some great resources to learn more about regular expressions:
 
