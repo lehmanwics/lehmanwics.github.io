@@ -42,6 +42,7 @@ You should see any new files in your project folder
 13. Push your changes to your repo by going to Git > Remotes... > Push. You should now see your changes in your repo!
 
 You can also work in the terminal as I'm used to by navigating to the Terminal tab under your Processes pane
+
 ![CodenvyGHSetUp-10.PNG](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/CodenvyGHSetUp-10.PNG)
 
 Let me know if I missed anything or it seems confusing. 
