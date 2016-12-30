@@ -16,9 +16,9 @@ I added a case-sensitive switch ```(?i)``` to the regex in order to make the cas
 
 These are some great resources to learn more about regular expressions:
 
--[Guide to Regular Expressions in Java (Part 1)](http://www.ocpsoft.org/opensource/guide-to-regular-expressions-in-java-part-1/ "Guide to Regular Expressions in Java (Part 1)")
+- [Guide to Regular Expressions in Java (Part 1)](http://www.ocpsoft.org/opensource/guide-to-regular-expressions-in-java-part-1/ "Guide to Regular Expressions in Java (Part 1)")
 
--[Specifying Modes Inside The Regular Expression](http://www.regular-expressions.info/modifiers.html "Specifying Modes Inside The Regular Expression")
+- [Specifying Modes Inside The Regular Expression](http://www.regular-expressions.info/modifiers.html "Specifying Modes Inside The Regular Expression")
 
 My final program to replace a string in a text file with another string looks like this:
 <!--more-->
