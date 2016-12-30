@@ -3,6 +3,8 @@ layout: post
 title: Upload Your Codenvy Project to Github
 ---
 
+Lots of steps at first but once it's set up, all you need to do is commit and push whenever you make changes. Here we go.
+
 1. Go to Profile > Preferences
 ![CodenvyGHSetUp-1.PNG](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/CodenvyGHSetUp-1.PNG)
 
@@ -41,3 +43,6 @@ You should see any new files in your project folder
 
 You can also work in the terminal as I'm used to by navigating to the Terminal tab under your Processes pane
 ![CodenvyGHSetUp-10.PNG](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/CodenvyGHSetUp-10.PNG)
+
+Let me know if I missed anything or it seems confusing. 
+Still working on day 5, stay tuned!
