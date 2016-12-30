@@ -29,35 +29,37 @@ import java.util.*; // Needed for Scanner class
 
 public class Fello {
 
- public static void main(String[] args) {
+    public static void main(String[] args) {
 
-   // Start of try/catch block
-   try {
+        // Start of try/catch block
+        try {
 
-    // Open file
-    File file = new File("hello2.txt");
-    Scanner txtFile = new Scanner(file);
+            // Open file
+            File file = new File("hello2.txt");
+            Scanner txtFile = new Scanner(file);
 
-    // While loop to print each line
-    while (txtFile.hasNextLine()) {
+            // While loop to print each line
+            while (txtFile.hasNextLine()) {
 
-     // Read a line
-     String readLine = txtFile.nextLine();
-     // Replace a string with another string
-     String replaceLine = readLine.replaceAll("(?i)hello", "goodbye");
-     // Print each line
-     System.out.println(replaceLine);
+                // Read a line
+                String readLine = txtFile.nextLine();
+                // Replace a string with another string
+                String replaceLine = readLine.replaceAll("(?i)hello", "cheese burger");
+                // Print each line
+                System.out.println(replaceLine);
 
-    } // end of while loop
+            } // end of while loop
 
-   } catch (Exception e) {
+            txtFile.close();
 
-    // Print stacktrace if exception found
-    e.printStackTrace();
+        } catch (Exception e) {
 
-   } // End of catch
+            // Print stacktrace if exception found
+            e.printStackTrace();
 
-  } // End of main
+        } // End of catch
+
+    } // End of main
 
 } // End of class
 
