@@ -28,7 +28,7 @@ _NOTE: You may receive a "Key is already in use" message if you already log into
 8. Go back to Codenvy and initialize a repository by going to Git > Intitialize Repository...
 ![CodenvyGHSetUp-5.PNG](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/CodenvyGHSetUp-5.PNG)
 
-9. Then, add your remote Github repo by going to Git > Remotes... > Remote 
+9. Then, add your remote Github repo by going to Git > Remotes... > Remotes 
 ![CodenvyGHSetUp-6.PNG](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/CodenvyGHSetUp-6.PNG)
 
 10. Click Add and type in the name of your Github repo and the location of your repo which should be the SSH address
