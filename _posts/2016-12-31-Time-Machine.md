@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Tracking Quality Coding Time
+excerpt_separator: <!--more-->
 ---
 When I was teaching myself front-end development through programs like [FreeCodeCamp](https://www.freecodecamp.com/), [Bento](https://bento.io/), and [The Odin Project](http://www.theodinproject.com/) I used a time tracker to capture data on not only the quantity of time but the quality of time I was spending coding.
 
@@ -10,7 +12,7 @@ I knew for sure that my best working days were Sundays because while I still wor
 Here's an example of a typical Sunday teaching myself to code looks like.
 
 ![Toggl_SunMar27.PNG]({{site.baseurl}}/_posts/Toggl_SunMar27.PNG)
-
+<!--more-->
 Web dev 1 refers to the project I have these tasks filed under. I used 2 hours, 40 minutes, and 50 seconds in total learning jQuery. 
 
 Of those almost 3 hours, I used an average of 21:03.67 minutes on chunked tasks. That's a great average considering I use a 20 minute pomodoro on a lot of tasks when I have undivided time to devote to something. Most of my Sundays tracked through Toggl look like this and I noticed that most of the time I would start my learning/coding around 10AM to 11AM so I knew those were the best times for me to get my brain to start focusing on tasks. 
