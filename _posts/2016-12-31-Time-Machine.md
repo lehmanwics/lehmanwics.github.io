@@ -9,7 +9,7 @@ I used [Toggl](https://www.toggl.com/app/timer) to capture this data and it was 
 
 I knew for sure that my best working days were Sundays because while I still worked my desk job on Sundays, the job was usually slow enough that I could get a lot accomplished during my 12-hour shift. However, I wasn't sure how I was spending that time.
 
-Here's an example of a typical Sunday teaching myself to code looks like.
+Here's an example of a typical Sunday teaching myself how to code.
 
 ![Toggl_SunMar27.PNG](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Toggl_SunMar27.PNG)
 <!--more-->
