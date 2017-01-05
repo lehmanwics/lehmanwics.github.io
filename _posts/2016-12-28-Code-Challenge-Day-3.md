@@ -85,7 +85,7 @@ Hello, it's me
 
 If we check against the hello2.txt file in the project we see that is correct!
 
-![Read Line Result](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Fello--ReadLineResult.PNG)
+![Read Line Result](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Fello--ReadLineResult.PNG?token=AJ_rZNlcyrCkCwSW3iHsEU093wtKtrVFks5Yd5QlwA%3D%3D)
 
 The last part is to read the text file in it's entirety. I found there are a few ways to do this and the way that makes most sense for me is a while loop.
 
@@ -159,7 +159,7 @@ public class Fello {
 
 It prints out the entire file as expected:
 
-![Print File](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Fello--PrintFile.PNG)
+![Print File](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Fello--PrintFile.PNG?token=AJ_rZKIa9WD0-SsdVZ_SWMmZKeD-2jf1ks5Yd5Q4wA%3D%3D)
 
 Next, I will be working on my methods:
 
