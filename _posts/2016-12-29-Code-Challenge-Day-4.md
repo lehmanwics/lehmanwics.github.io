@@ -64,7 +64,7 @@ public class Fello {
 } // End of class
 
 ```
-![Fello Final Program](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Fello--FinalProgram.PNG?token=AJ_rZCuPwP1tfsVKEZoDs804vcqEh7Ujks5Yd5RewA%3D%3D)
+![Fello Final Program](/_posts/Fello--FinalProgram.PNG)
 (*At some point I started changing goodbye to random foods. No regrets*)
 ----------------------
 
