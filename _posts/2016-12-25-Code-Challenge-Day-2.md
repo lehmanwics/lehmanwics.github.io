@@ -20,7 +20,7 @@ To do so, I first imported the ```java.io.*``` package to use classes like ```Fi
 
 This is the start of my class so far:
 
-![Start of Class](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Fello--StartOfClass.PNG?token=AJ_rZLEGbmO_sRJYQ7hTcY-_yfw0SiXVks5Yd5PPwA%3D%3D)
+![Start of Class](/_posts/Fello--StartOfClass.PNG)
 
 Plain and simple! I will need to add an IOException to the main class and I will show that later.
 
@@ -30,7 +30,7 @@ Next, I created a new object from the ```File``` class. I am calling the object 
 
 I call the ```File.exists()``` method on my ```file``` object to check if my program is able to locate the file. This method returns a boolean value and this is what I get:
 
-![Testing File Object](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Fello--TestingFileObject.PNG?token=AJ_rZNFfuB2QoCw6VzfYsEY--H9_9dxDks5Yd5PtwA%3D%3D)
+![Testing File Object](/_posts/Fello--TestingFileObject.PNG)
 
 Womp Womp.
 
