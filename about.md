@@ -25,7 +25,7 @@ In between I am using this space to post about side projects and things relevant
 This is what I have set to learn/do/document for this year:
 
 | Goal | Progress | Completed? |
-| --- | --- |
+| --- | :---: | :---: |
 | Complete Java Projects #30DaysOfCode Challenge | =====30%===== | [ ] |
 | Complete FreeCodeCamp Javascript section | =====5%===== | [ ] |
 | Complete the Java CodeAcademy Pro course | =====45%===== | [ ] |
@@ -35,7 +35,7 @@ This is what I have set to learn/do/document for this year:
 | Build a personal desktop and progressive web pomodoro app | =====2%===== | [ ] |
 | Secure a part-time internship for the summer | =====2%===== | [ ] |
 
-I have some personal goals as well that aren't relevant here. :relaxed:
+I have some personal goals as well that aren't relevant here. 
 
 ## Contact me
 
