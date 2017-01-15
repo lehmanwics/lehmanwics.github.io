@@ -20,7 +20,7 @@ To do so, I first imported the ```java.io.*``` package to use classes like ```Fi
 
 This is the start of my class so far:
 
-![Start of Class](/_posts/Fello--StartOfClass.PNG)
+![Start of Class](/_posts/Fello--StartOfClass.PNG?raw=true)
 
 Plain and simple! I will need to add an IOException to the main class and I will show that later.
 
@@ -30,7 +30,7 @@ Next, I created a new object from the ```File``` class. I am calling the object 
 
 I call the ```File.exists()``` method on my ```file``` object to check if my program is able to locate the file. This method returns a boolean value and this is what I get:
 
-![Testing File Object](/_posts/Fello--TestingFileObject.PNG)
+![Testing File Object](/_posts/Fello--TestingFileObject.PNG?raw=true)
 
 Womp Womp.
 
