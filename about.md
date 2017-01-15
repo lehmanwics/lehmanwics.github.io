@@ -26,14 +26,14 @@ This is what I have set to learn/do/document for this year:
 
 | Goal | Progress | Completed? |
 | --- | :---: | :---: |
-| Complete Java Projects #30DaysOfCode Challenge | =====30%===== | [ ] |
-| Complete FreeCodeCamp Javascript section | =====5%===== | [ ] |
-| Complete the Java CodeAcademy Pro course | =====45%===== | [ ] |
-| Learn [Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science?tap_a=5644-dce66f&tap_s=25742-a9b295&tm_spot=special_post) | =====0%===== | [ ] |
-| [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r?tap_a=5644-dce66f&tap_s=25742-a9b295&tm_spot=special_post) | =====0%===== | [ ] |
-| Run a one-person 24-hour hackathon experiment | =====0%===== | [ ] |
-| Build a personal desktop and progressive web pomodoro app | =====2%===== | [ ] |
-| Secure a part-time internship for the summer | =====2%===== | [ ] |
+| - Complete Java Projects #30DaysOfCode Challenge | =====30%===== | [ ] |
+| - Complete FreeCodeCamp Javascript section | =====5%===== | [ ] |
+| - Complete the Java CodeAcademy Pro course | =====45%===== | [ ] |
+| - Learn [Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science?tap_a=5644-dce66f&tap_s=25742-a9b295&tm_spot=special_post) | =====0%===== | [ ] |
+| - [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r?tap_a=5644-dce66f&tap_s=25742-a9b295&tm_spot=special_post) | =====0%===== | [ ] |
+| - Run a one-person 24-hour hackathon experiment | =====0%===== | [ ] |
+| - Build a personal desktop and progressive web pomodoro app | =====2%===== | [ ] |
+| - Secure a part-time internship for the summer | =====2%===== | [ ] |
 
 I have some personal goals as well that aren't relevant here. 
 
