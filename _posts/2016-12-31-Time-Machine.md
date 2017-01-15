@@ -11,7 +11,7 @@ I knew for sure that my best working days were Sundays because while I still wor
 
 Here's an example of a typical Sunday teaching myself how to code.
 
-![Toggl_SunMar27.PNG](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Toggl_SunMar27.JPG?token=AJ_rZDtMxt75et0Q0z196ixGc8K-xMhhks5Yd5VmwA%3D%3D)
+![Toggl_SunMar27.PNG](/_posts/Toggl_SunMar27.JPG)
 <!--more-->
 
 Web dev 1 refers to the project I have these tasks filed under. I used 2 hours, 40 minutes, and 50 seconds in total learning jQuery. 
@@ -26,15 +26,15 @@ However, the real beauty was seeing how coding on weekdays was working for me. I
 
 Take a look at a typical Monday with just under an hour of coding done.
 
-![Toggl_MonApr11.PNG](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Toggl_MonApr11.PNG?token=AJ_rZIKGeXGXudCPuO4Ao344WXftX5rXks5Yd5V1wA%3D%3D)
+![Toggl_MonApr11.PNG](/_posts/Toggl_MonApr11.PNG)
 
 Here's a different Monday in May with a similar pattern.
 
-![Toggl_MonMay02.png](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Toggl_MonMay02.png?token=AJ_rZPxC5GwnbKzLLugptv1DB3zOKFgmks5Yd5WCwA%3D%3D)
+![Toggl_MonMay02.png](/_posts/Toggl_MonMay02.png)
 
 And here's a look at a regular Wednesday where I got three hours of work down on several tasks in a similar pattern of small chunks of time.
 
-![Toggl_WedMar23.png](https://raw.githubusercontent.com/seerocode/seerocode.github.io/master/_posts/Toggl_WedMar23.png?token=AJ_rZIkNdTXSVS0-zH3wGvLT7Yz7igTJks5Yd5WRwA%3D%3D)
+![Toggl_WedMar23.png](/_posts/Toggl_WedMar23.png)
 
 See the problem? None of these days I was able to get any coding done for more than an average of 5 minutes or so. There was a slim chance I was going to learn anything substantial that was going to stick in just 5 minutes but I kept coding during any free time I could get during work hours in the months of April and May. Working 6 days a week also made it difficult for me to do any coding on my day off when all I wanted to do was rest.
 
