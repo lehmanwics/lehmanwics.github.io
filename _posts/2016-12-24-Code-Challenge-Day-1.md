@@ -11,7 +11,7 @@ The goal of this challenge is to keep us coding, honing, making, creating, disco
 The challenge I set out for myself is to work on the following three Java projects:
 <!--more-->
 
-![Screenshot of Java projects list](/images/Java-Prep-Projects.jpg){: .center-image }
+![Screenshot of Java projects list](/images/Java-Prep-Projects.jpg?raw=true){: .center-image }
 
 I am starting with the first program which I'll call **Fello**. I have started a repo for it here: [https://github.com/seerocode/Fello](https://github.com/seerocode/Fello "GitHub Repo for Fello Program")
 
