@@ -64,7 +64,7 @@ public class Fello {
 } // End of class
 
 ```
-![Fello Final Program](/_posts/Fello--FinalProgram.PNG)
+![Fello Final Program](/images/Fello--FinalProgram.PNG)
 (*At some point I started changing goodbye to random foods. No regrets*)
 ----------------------
 
