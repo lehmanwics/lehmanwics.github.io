@@ -85,7 +85,7 @@ Hello, it's me
 
 If we check against the hello2.txt file in the project we see that is correct!
 
-![Read Line Result](/_posts/Fello--ReadLineResult.PNG)
+![Read Line Result](/images/Fello--ReadLineResult.PNG)
 
 The last part is to read the text file in it's entirety. I found there are a few ways to do this and the way that makes most sense for me is a while loop.
 
@@ -159,7 +159,7 @@ public class Fello {
 
 It prints out the entire file as expected:
 
-![Print File](/_posts/Fello--PrintFile.PNG)
+![Print File](/images/Fello--PrintFile.PNG)
 
 Next, I will be working on my methods:
 
@@ -169,4 +169,3 @@ Next, I will be working on my methods:
 4. Print the resulting file
 
 On to day 4 tomorrow!
-
