@@ -1,3 +1,8 @@
+---
+layout: post
+title: Quick Update & Plan
+excerpt_separator: <!--more-->
+---
 
 30 days are up and my progress has been very disappointing for several reasons, the main one being that I did not finish the projects I set out for myself. This was mainly due to poor time management and planning coupled with other responsibilities I was occupied with.
 
@@ -6,6 +11,8 @@ As I said in my previous post, I have a plan to tackle some part of that issue. 
 My goal to complete the next two Java projects still stands along with a few other projects I have in mind. I will come back to those two projects later this year but right now, I have a few things I want to tackle first.
 
 The first is learning Python for data science. 
+
+<!--more-->
 
 But Ro, you're still learning Java! 
 So what, imaginary person?!
