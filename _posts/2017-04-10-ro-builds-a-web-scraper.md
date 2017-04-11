@@ -1,7 +1,8 @@
 ---
-published: false
+layout: post
+title: So, I'm Building a Web Scraper
+excerpt_separator: <!--more-->
 ---
-## So, I'm Building a Web Scraper
 
 What's my goal? To compile a list of articles with titles, keywords, and dates from 2015 to 2016. 
 
@@ -13,8 +14,8 @@ Now, back to scheduled programming. The web scraper.
 
 I am already halfway there and you can see the code for the scraper here: https://github.com/seerocode/daily-news-web-scraper
 
-WARNING: This is in what I call "beta" right now and more for my personal use than anything else and I am happy to report it's working as I expected! Still, the code is all over the place so I am working on fixing that up. Read: "I know it needs work, I'm working on it."
-
+*WARNING:* This is in what I call "beta" right now and more for my personal research use than anything else! The code is all over the place so I am working on fixing that up. Read: "I know it needs work, I'm working on it."
+<!--more-->
 Here's some part of it so you have an idea (minus the import statements):
 
 ```
@@ -65,7 +66,7 @@ What this is doing is extracting all the links in the ```<a>``` tags that are ch
 The first loop captures all the links, adds them to an array, and appends the NY Daily News URL because The NY Daily News uses relative instead of absolute links.
 
 Each link is then added to a CSV file. That part took me a few tries to get right as it was the first time I was writing to a file with columns and rows. 15 minutes later and I'm like...
-![YASS]({{site.baseurl}}/https://media.giphy.com/media/kGZ4jJguXT5C0/giphy.gif)
+![YASS](https://media.giphy.com/media/kGZ4jJguXT5C0/giphy.gif)
 
 But seriously, it never ceases to amaze me when I make something that works. It's like a magical unicorn lent me its powers and I am queen of all code land. :joy:
 
