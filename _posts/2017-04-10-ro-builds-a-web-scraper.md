@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 
 What's my goal? To compile a list of articles with titles, keywords, and dates from 2015 to 2016. 
 
-These will then be used to extract relevant data to add to the research I am helping with in regards to gun violence in the urban, minority, low-income communities. This data will then be used connected to possible contributing factors.
+The links will be used to extract relevant data in regards to gun violence in the urban, minority, low-income communities. This data will then be connected to possible contributing factors.
 
 This research intends to highlight some important factors many may not have considered in relation to gun violence and I am pumped to see what our data tells us!
 
