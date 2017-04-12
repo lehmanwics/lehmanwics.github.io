@@ -23,8 +23,4 @@ So, I am going to start learning Python regardless, on top of still getting past
 
 The next thing on the chopping block is learning how to make a progressive pomodoro web app, which really I am just using as a way to apply my learning Javascript in a cool project. I have basic knowledge in Javascript but haven't ramped it up since I stopped teaching myself last May. This I am going to accomplish by completing the FreeCodeCamp Javascript section along with some other tutorials in between.
 
-For each project I am going to track my time using Toggl. In fact, I am using Toggl now to track how much time I spent writing and editing this post - minus distractions (I'll share in a few sentences).
-
-Next post will be about how Java passes variables to methods.
-
-*Total time to write/edit this post: 22 mins and 09 secs*
+Until next time!
