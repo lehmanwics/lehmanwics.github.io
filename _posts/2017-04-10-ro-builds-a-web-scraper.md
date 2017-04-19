@@ -84,7 +84,7 @@ Well, OK. I thought how about I look through the array and if I find a URL that 
 
 No. Bad. Didn't work. 
 
-Well, I could get it to work but it would be a waste and inneficient. I knew there had to be a simpler way so I took some time to think on it and while walking my dog, it hit me...
+Well, I could get it to work but it would be a waste and inefficient. I knew there had to be a simpler way so I took some time to think on it and while walking my dog, it hit me...
 
 Each paginated link ends with &page=XX with XX being a page number. OK, why don't I just go through every possible page number FIRST until I hit a max page number for which that search doesn't exist and stop there.
 
