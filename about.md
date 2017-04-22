@@ -8,9 +8,9 @@ published: true
 ## Who's Ro?
 Hi, my name is Rosemarie but if you see me around you can shout out "Ro!" and I'm more likely to respond. I am a lover of  story-telling with data, civic tech for the greater good, and beautifully good design (UX and UI) with users in mind.
 
-I was born and raised in the Bronx, NY by a Dominican immigrant mom and am a firm believer that you cannot get if you do not ask and luck is mostly doing everything you can to be at the right place and the right time. I am currently pursuing my bachelor's degree in Computer Science at CUNY Lehman College with a personal focus on and interest in data science and sociology to become a data scientist. My other areas of interest include data visualization, machine learning, policy change, and user experience. 
+I was born and raised in the Bronx, NY by a Dominican immigrant mom and am a firm believer that you cannot get if you do not ask and luck is mostly doing everything you can to be at the right place and the right time. I am currently pursuing my bachelor's degree in Computer Science at CUNY Lehman College (minor in sociology) with a personal focus on and interest in data science. My other areas of interest include data visualization, machine learning, public policy, and user experience. 
 
-I am also a member and 2017 president of the NSBE Lehman chapter. Our chapter is currently organizing our 4th annual fall hackathon in collaboration with the SHPE Lehman chapter. Check back soon for more information.
+I am also a member and 2017 president of the NSBE Lehman chapter. Our chapter is currently organizing our 4th annual fall hackathon in collaboration with the SHPE Lehman chapter. Check <a href="http://nslehman.com/hackathon">our website</a> for more information.
 
 In my downtime I am usually reading articles I have saved to Pocket, re-designing my apartment on [3DPlanner](https://roomstyler.com/3dplanner "RoomStyler 3DPlanner") and Pinterest, attending meetups, trying to teach my old dog new tricks, and teaching myself new tricks as well.
 
