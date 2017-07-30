@@ -20,6 +20,7 @@ graduate degree to continue learning, and teach on the side while hopefully gett
 going to connect all of that as I didn't know it was possible to do so many different things at once.
 
 It is possible. It definitely is.
+<!--more-->
 
 Being at MSR opened my mind to the field of computational social science and moreover, to industry research. There is an entire group of 
 incredibly intelligent and hardworking people that work on hard research problems and also get to contribute to the development of products
