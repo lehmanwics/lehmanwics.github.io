@@ -40,7 +40,7 @@ hard work during the hours that it matters.
 
 Buuuut, I still dream about data frames so there's no escaping work you love. :)
 
-This week were all presenting our research and what we have learned so far from the data we have been working with. It's bittersweet to
+This week we're all presenting our research and what we have learned so far from the data we have been working with. It's bittersweet to
 finish the program but I am excited to take what I have learned and apply it to projects I've been thinking about.
 
 --------------------------------------------------
