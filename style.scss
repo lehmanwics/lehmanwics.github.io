@@ -152,9 +152,10 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+  /*max-width: 740px;*/
+  padding: 0 100px;
   width: 100%;
+  text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
