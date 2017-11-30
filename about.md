@@ -6,20 +6,26 @@ published: true
 ---
 
 ## Who's Ro?
-Hi, my name is Rosemarie but if you see me around you can shout out "Ro!" and I'm more likely to respond. I am a lover of  story-telling with data, civic tech for the greater good, and beautifully good design (UX and UI) with users in mind.
+Ro is a computer science student at Lehman College and interested in the intersection of tech and social science. I am currently a Microsoft NYC Civic Tech Fellow working on bridging social good and tech through Microsoft Cities. 
 
-I was born and raised in the Bronx, NY by a Dominican immigrant mom and am a firm believer that you cannot get if you do not ask and luck is mostly doing everything you can to be at the right place and the right time. I am currently pursuing my bachelor's degree in Computer Science at CUNY Lehman College (minor in sociology) with a personal focus on and interest in data science. My other areas of interest include data visualization, machine learning, public policy, and user experience. 
+She enjoys learning, building, and promoting technology that works to benefit and empower local communities.
 
-I am also a member and 2017 president of the NSBE Lehman chapter. Our chapter is currently organizing our 4th annual fall hackathon in collaboration with the SHPE Lehman chapter. Check <a href="http://nslehman.com/hackathon">our website</a> for more information.
 
-In my downtime I am usually reading articles I have saved to Pocket, re-designing my apartment on [3DPlanner](https://roomstyler.com/3dplanner "RoomStyler 3DPlanner") and Pinterest, attending meetups, trying to teach my old dog new tricks, and teaching myself new tricks as well.
+## Speaking & Presentations
 
-That's a lot of I's so far. If you're still reading, send me a note and let me know more about you! 
+<a href="http://ide.mit.edu/sites/default/files/agendas/CODE%202017%20Agenda.pdf">CODE@MIT Poster Slam & Presentation</a> | October 2017
+Presented DS3 research on Student Trajectories and School Choice in the New York City Public School System at the CONFERENCE ON DIGITAL
+EXPERIMENTATION at MIT.
 
-## About this blog/site
-This site was born out of my want to document the process of coding for 30 days. It is a challenge I started with the members of the NSBE and SHPE chapters at Lehman to encourage each other to code, create, and learn for a consecutive 30 days and continue our projects after the time was up. 
+<a href="https://www.microsoft.com/en-us/research/video/data-science-summer-school-2017-student-trajectories-school-choice-nyc/">Microsoft Research DS3 Final Presentation</a> | August 2017
+Presentation on use of NYC DOE data to explore how early test performance correlates with later success, to describe and predict which students leave the public school system, and to examine effects of the recently implemented high school choice system.
 
-In between I am using this space to post about side projects and things relevant to the development and learning process. 
+
+## Press 
+
+<a href="https://www.youtube.com/watch?v=ukshKr9bYkM&feature=youtu.be">Bronxnet OPEN: 2017 NSBE-SHPE Hackathon</a> | November 2017
+Interview with Daren Jaime to talk about the the 4th annual Hackathon taking place on Lehman Campus. 
+
 
 ## Contact me
 
