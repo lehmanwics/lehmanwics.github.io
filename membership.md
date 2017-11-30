@@ -43,7 +43,7 @@ I cannot attend your meetings. How do I participate otherwise?
 We release minutes for each of our meetings at the end of the week as well as in our weekly newsletter. Please click here to access our past minutes. If you have something to add after the meeting, please send an email or post a comment on the blog post for the minutes.
 
 When are your meeting times?  
-We meet every other Wednesday from 4pm to 5pm. Meeting locations may vary so please connect with us on Slack and email for the most up to date information.
+We meet every other Friday from 6:30 PM to 7:30 PM. Meeting locations may vary so please connect with us on Slack and email for the most up to date information.
 
 I have an idea I want to share. Who do I speak to?  
 Wonderful! We love having fresh ideas come our way. Please add your idea to our Trello board and we will reach out to you. The transparency allows us to show how we adopt new ideas into our chapter.
