@@ -6,11 +6,6 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-
-#news > .post {
-	color: red;
-}
-
 /****************/
 /*Portfolio*/
 /***************/
@@ -382,6 +377,7 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+  margin-bottom: 2em;
 }
 
 .posts > .post:last-child {
