@@ -1,6 +1,3 @@
----
----
-
 //
 // IMPORTS
 //
@@ -8,6 +5,11 @@
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
+
+
+#news > .post {
+	color: red;
+}
 
 /****************/
 /*Portfolio*/
