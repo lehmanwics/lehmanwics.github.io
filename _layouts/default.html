@@ -18,16 +18,26 @@ layout: compress
 
     {% include header.html %}
 
-    <div class="hero lazyload" data-bg="{{site.url}}/assets/img/posts/sleek_lg.jpg">
+    <div class="hero lazyload" data-bg="{{site.url}}/assets/img/posts/woc_cswoman.jpg">
       <div class="hero__wrap">
-        <h1 class="hero__title">Lehman College Women in Computer Science</h1>
+        <h1 class="hero__title">Lehman College </br> Women in Computer Science</h1>
         <p class="hero__meta">Modern Jekyll theme focused on speed performance & SEO best practices</p>
       </div>
     </div>
 
     <main class="site__content">
+      <section class="panel">
+        <div class="container">
+          <h3>
+          WiCS at Lehman College was founded to bring together women interested in technology and computer science at the Lehman campus. We aim to support, encourage, and celebrate our community of excellent women leaders and raise awareness of issues women face in tech as well as inspire women to explore educational and professional opportunities in these fields "beyond the degree" and promote their interests through community events, talks, workshops, and conferences.
+          </h3>
+          <a href="/about/">More About WiCS</a>
+        </div>
+      </section>
+
       <section class="blog">
         <div class="container">
+          <h1 class="section-title">Latest News</h1>
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
             {% for post in site.posts limit: 3 %}
