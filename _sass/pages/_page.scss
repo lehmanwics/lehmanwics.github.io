@@ -30,7 +30,7 @@
   min-height: 8.75rem;
   width: 100%;
   position: relative;
-  background-color: $dark-light;
+  background-color: $teal-blue;
 
   @include breakpoint($lg) {
     height: 12.5em;
@@ -44,7 +44,8 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(52, 56, 81, .8);
+    /*background: rgba(52, 56, 81, .8);*/
+    background: $teal-blue;
   }
 }
 
