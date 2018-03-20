@@ -4,9 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-### Reach out to us!
+### Connect with us!
 
-Fill in the form or [email us](mailto:{{site.email}}).
+Our office hours are indicated on the calendar below. Please stop by during these times if you would like to speak to anyone in the chapter.
+
+You are also welcome to chat with us after meetings and events, fill in the form below, or [email us](mailto:{{site.email}}).
 
 {% include form.html %}
 
