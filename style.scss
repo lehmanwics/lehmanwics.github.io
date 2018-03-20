@@ -216,11 +216,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $mid-pink;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $mid-pink;
   }
 }
 
