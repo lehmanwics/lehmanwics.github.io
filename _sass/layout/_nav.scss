@@ -1,5 +1,5 @@
 .header {
-  background-color: $bg-color;
+  background-color: $teal-blue;
   color: $text-color;
   position: absolute;
   z-index: 4;
@@ -19,7 +19,7 @@
 
   &.fix-nav {
     position: fixed;
-    background-color: $bg-color;
+    background-color: $teal-blue;
     transition: transform .3s, background-color 0.5s ease;
     z-index: 5;
   }
@@ -39,6 +39,7 @@
   outline: 0;
   border-bottom: 0;
   color: $heading-color;
+  padding-top: 2em;
 
   &:hover {
     color: $heading-color;
@@ -70,7 +71,7 @@
   left: 0;
   width: 100%;
   height: auto;
-  background: $bg-color;
+  background: $teal-blue;
   &.js--open {
 
   }
@@ -181,19 +182,19 @@
       height: 3px;
       width: 100%;
       transform: scaleX(0);
-      background: $link-color;
+      background: #046381;
       transition: color 0.2s ease-in-out, transform .2s ease-in-out;
     }
 
     &:hover {
-      color: darken($link-color, 20%);
+      color: darken(#046381, 20%);
     }
 
     &:hover::after,
     :active::after,
     :focus::after {
       transform: scaleX(1);
-      color: darken($link-color, 20%);
+      color: darken(#046381, 20%);
       transition: transform .2s ease-in-out;
     }
   }
