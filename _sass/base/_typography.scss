@@ -34,10 +34,10 @@ h6 {
 
 //reset link
 a {
-  color: $link-color;
+  color: $mid-pink;
   text-decoration: none;
   transition: all .2s linear;
-  border-bottom: 1px dashed $link-color;
+  border-bottom: 1px dashed $mid-pink;
 
   &:active,
   &:focus {
