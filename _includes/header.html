@@ -2,9 +2,11 @@
   <div class="container">
     <div class="header__inner">
       <a class="header__logo" href="{{ '/' | relative_url }}">
-        <div class="header__logo--container">
-          {% include logo.svg %}
-        </div>
+        <!-- <div class="header__logo--container"> -->
+          <!-- {% include logo.svg %} -->
+          <!-- <img src="lcwicslogo_white.png"> -->
+          <h3>Lehman College WiCS</h3>
+        <!-- </div> -->
       </a>
       <nav class="header__links">
         <div class="container header__links-wrapper">
@@ -12,9 +14,7 @@
           <a class="header__link" href="{{ '/about/' | relative_url }}" itemprop="url"><span itemprop="name">About</span></a>
           <a class="header__link" href="{{ '/faq/' | relative_url }}" itemprop="url"><span itemprop="name">FAQ</span></a>
           <a class="header__link" href="{{ '/calendar/' | relative_url }}" itemprop="url"><span itemprop="name">Events</span></a>
-          <a class="header__link" href="{{ '/contact/' | relative_url }}" itemprop="url">
-            <span itemprop="name">Contact</span>
-          </a>
+          <a class="header__link" href="{{ '/contact/' | relative_url }}" itemprop="url"><span itemprop="name">Contact</span></a>
         </div>
       </nav>
       <div class="header__toggle">
