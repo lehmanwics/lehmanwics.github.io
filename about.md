@@ -15,4 +15,4 @@ We also seek to collaborate extensively with other clubs on campus to integrate 
 
 **Our mission:**
 
-We are dedicated to creating a welcoming environment that will provide academic, professional, and emotional support to women interested in technology and computer science and create more opportunities for WiCS members at Lehman to succeed in a digital world.
+We are dedicated to building a supportive community of women and allies at Lehman College to empower other women interested in technology and computer science to pursue careers in tech and succeed in a digital world.
