@@ -9,12 +9,12 @@
     /> -->
     <img
       src="{{site.url}}/assets/img/posts/{{post.featured-img}}",
-      data-srcset="{{site.url}}/assets/img/posts/{{post.featured-img}}, {{site.url}}/assets/img/posts/{{post.featured-img}}"
+      data-srcset="{{site.url}}/assets/img/posts/{{post.featured-img}}.png, {{site.url}}/assets/img/posts/{{post.featured-img}}.png"
       class="lazyload blur"
       alt="{{post.title}}"
     />
     <!-- <noscript><img src="{{site.url}}/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}"></noscript> -->
-    <noscript><img src="{{site.url}}/assets/img/posts/{{post.featured-img}}" alt="{{ post.title }}"></noscript>
+    <noscript><img src="{{site.url}}/assets/img/posts/{{post.featured-img}}.png" alt="{{ post.title }}"></noscript>
   </figure>
   {% else %}
   <figure class="post-card__thumb">
