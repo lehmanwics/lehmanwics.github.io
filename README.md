@@ -43,33 +43,11 @@ sudo npm install -g gulpfile
 3. If you want to use [gulp.js](https://gulpjs.com/) run `gulp` or `npm start`
   * if you don't want to use gulp you can simply run `bundle exec jekyll serve`
 
-#### Installing to existing jekyll project
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "jekyll-sleek"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: jekyll-sleek
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-sleek
-
 
 ## File Structure Overview
 
 ```bash
-sleek
+lehmanwics.github.io
 ├── _includes	                 # theme includes
 ├── _js	                       # javascript files (by default jquery will be included with the scripts inside)
 ├── _layouts                   # theme layouts (see below for details)
@@ -94,6 +72,9 @@ sleek
 - Run ```gulp sass``` from your preferred terminal or console to save the CSS file changes
 - Add and commit files to repo to publish changes
 
+### Uploading images for posts
+Save all images to the assets/img/posts folder with a .png extension
+
 ### Publishing and drafting blog posts
 
 Blog posts are saved under the *_posts* folder. To create a new blog post, create a new file in the _posts folder and configure the post as follows:
@@ -105,7 +86,7 @@ layout: post                                            # type of post
 title: Join Us at our Interest Meeting in April!        # title of the blog post
 featured-img: flyer_event--wicsinterestmeeting.png      # image used in thumbnail and header (saved in the assets/img folder)
 summary: enter summary here                             # optional line - create a summary for the post
-published: true											# optional line - set to false if you want to publish later
+published: true	                                        # optional line - set to false if you want to publish later
 ---
 
 Text and code goes here.
