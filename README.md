@@ -99,7 +99,36 @@ Once you have completed the post, run ```jekyll serve``` to see your post locall
 
 ### Site configuration
 
-TODO
+To push changes to the repo, enter the following commands into your terminal or console:
+First, create a branch for yourself called 'dev-name'. For example, 'dev-jane'. 
+Create the branch on your local machine and switch in this branch :
+```
+git checkout -b [name_of_your_new_branch]
+```
+
+Change working branch :
+
+```
+git checkout [name_of_your_new_branch]
+```
+
+Push the branch on github :
+```
+git push origin [name_of_your_new_branch]
+```
+
+You can view all branches by running `git branch`. To switch back to master branch at any point, run `git checkout master`
+*Always work from your branch*
+
+To push file changes from your branch, enter the following commands:
+
+1. `git status` to check what files have been changed (NOTE: some files change after running gulp sass that you did not change yourself. This is normal and expected and the files can all be commited at the end with `git add *`)
+2. `git add filename` to add the file you changed. Change filename to the path to the name of the file you changed (HINT: hit tab after typing a few letters to autocomplete file paths)
+3. `git commit -m "short comment that explains change made"
+4. `git push` to push commit to your branch
+
+Enter the credentials for the repo when prompted. Do not enter your own github credentials as that will not work. 
+Once the change has been pushed, create a pull request and merge into master branch.
 
 ### Google Tag Manager
 
