@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Join Us at our Interest Meeting in April!"
-featured-img: flyer_event--wicsinterestmeeting
+featured-img: flyer_event--wicsinterestmeeting.png
 ---
 
 Come talk about women in tech and computer science at the LC WiCS interest meeting on April 25th.
