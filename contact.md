@@ -10,6 +10,6 @@ Our office hours are indicated on the calendar below. Please stop by during thes
 
 You are also welcome to chat with us after meetings and events or [email us](mailto:{{site.email}}) at lehmanwics [at] gmail [dot] com.
 
-<!-- {% include form.html %}
+{% include form.html %}
 
-{% include modal.html %} -->
+{% include modal.html %}
