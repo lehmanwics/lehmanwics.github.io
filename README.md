@@ -38,7 +38,7 @@ sudo npm install -g gulpfile
 
 ### Up & Running
 
-1. Clone or download the repo into directory of your choice: `git clone https://github.com/lehmanwics/lehmanwics.github.io.git`
+1. Fork this repo and clone into directory of your choice
 2. Inside the directory run `bundle install` and `npm install`
 3. If you want to use [gulp.js](https://gulpjs.com/) run `gulp` or `npm start`
   * if you don't want to use gulp you can simply run `bundle exec jekyll serve`
