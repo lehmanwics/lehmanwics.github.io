@@ -97,6 +97,8 @@ You can use some HTML code in the blogpost, although markdown formatting is sugg
 
 Once you have completed the post, run ```jekyll serve``` to see your post locally. If you are satisfied with the changes, commit and push it to the repo.
 
+**Alternatively,** you can use Prose.io at [https://prose.io/#lehmanwics/lehmanwics.github.io/tree/master/_posts](https://prose.io/#lehmanwics/lehmanwics.github.io/tree/master/_posts) do draft new posts using their GUI. This may be an easier option if you prefer.
+
 ### Site configuration
 
 To push changes to the repo, enter the following commands into your terminal or console:
