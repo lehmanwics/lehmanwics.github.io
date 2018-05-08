@@ -1,7 +1,8 @@
 ---
 layout: page
 title: FAQ
-permalink: /faq/
+group: navigation
+canonical: https://lehmanwics.github.io/faq
 ---
 
 #### Do I have to be a woman to join?

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Lehman College WiCS</title>
+        <description>Lehman College WiCS - LC WiCS</description>
+        <link>lehmanwics.github.io</link>
+        <link>lehmanwics.github.io</link>
+        <lastBuildDate>2018-05-08T02:05:44-04:00</lastBuildDate>
+        <pubDate>2018-05-08T02:05:44-04:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Join Us at our Interest Meeting in April!</title>
+                <description>&lt;p&gt;Come talk about women in tech and computer science at the LC WiCS interest meeting on April 25th.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;The Lehman College Women in Computer Science (WiCS) club at Lehman College is a new club on campus created to bring together women interested in technology and computer science at the Lehman campus.&lt;/p&gt;
+
+&lt;p&gt;This interest meeting is intended to get to know you and learn more about what YOU would like to see WiCS bring to Lehman for you as a member. Come learn more about us and how you can get involved!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt; Carman Hall - 217&lt;/p&gt;
+
+&lt;p&gt;Pizza and refreshments will be served!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Register Here: &lt;/strong&gt; &lt;a href=&quot;https://meetlcwics.splashthat.com/&quot;&gt;https://meetlcwics.splashthat.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/flyer_event--wicsinterestmeeting.png&quot; /&gt;&lt;/p&gt;
+</description>
+                <link>lehmanwics.github.io/2018/03/16/wics-interest-meeting</link>
+                <guid>lehmanwics.github.io/2018/03/16/wics-interest-meeting</guid>
+                <pubDate>2018-03-16T00:00:00-04:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

@@ -1,167 +1,93 @@
-[![Gem Version](https://badge.fury.io/rb/jekyll-sleek.svg)](https://badge.fury.io/rb/jekyll-sleek) [![Build Status](https://travis-ci.org/janczizikow/sleek.svg?branch=master)](https://travis-ci.org/janczizikow/sleek) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/janczizikow/sleek)
-# Sleek Template (Customized by LC WiCS)
+# Helium Jekyll
+## A new Bootstrap 4 theme
 
-A modern [Jekyll](https://jekyllrb.com/) theme focused on speed performance & SEO best practices.
+<a href="https://jekyll-themes.com">
+    <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
+</a>
+
+Helium is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme with some tricks up it's sleeve. It has a live theme switcher and it's main blog layout display prominent hero images for posts with colored overlays and nice animations.
+
+![helium sample](https://raw.githubusercontent.com/heliumjk/heliumjk.github.io/master/assets/images/helium-screenshot.jpg)
+![helium theme](https://raw.githubusercontent.com/heliumjk/heliumjk.github.io/master/assets/images/helium-screenshot1.jpg)
 
 ## Features
+Though minimalistic-looking by nature, dactl is easily configurable and includes quite a lot of niceties:
 
-* Compatible with [Github Pages](https://pages.github.com/)
-* Minimal, responsive and speed performance optimized
-* SEO friendly, with help of [Jekyll SEO Plugin](https://github.com/jekyll/jekyll-seo-tag)
-* Easy [Google Tag Manager](https://tagmanager.google.com/) Integration
-* Support for [Disqus](https://disqus.com/) comments
-* Form submissions with [Formspree](https://formspree.io/)
+Main features:
+* [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
+* [Font Awesome](http://fontawesome.io/)
+* 100+ UI Blocks
+* Responsive design
 
-[Preview Demo](https://janczizikow.github.io/sleek/)
+Jekyll-specific features:
+* Fully compatible with Jekyll 3.x and GitHub Pages
+* SEO optimized
+* [Google Analytics](https://www.google.com/analytics/) support
+* [Google AdSense](https://www.google.com/adsense/start/) support
+* [Disqus](https://disqus.com/) comments support
+
+Other features:
+* Blog page
+* Landing page samples
+* Tags functionality and tags pages
+* Link posts functionality
+* Mobile slider scrolling
+* Emoji support ⚡️⚡️⚡️ by copy paste from [getemoji](http://getemoji.com/)
+
+Some of the features listed above can be easily configured or disabled by you.
+
+## Information about Helium
+At it's core, dactl is a forked version of [sentenza](https://github.com/sentenza/jekyll-material-design) but it has been almost entirely rewritten from scratch.  
+I have just started my journey in the world of web development, learning new things on the way.  
+Looking for a way to put my newly acquired skills to test I found Jekyll and I quickly realized that it's going to be a good learning experience since I don't like building 'dummy' projects.  
+I've built this theme as a way to develop my skills further.
+
+You can find credits at the bottom of this Readme file.  
+**All** feedback is welcome, both positive and negative.
 
 ## Installation
+### Running locally
+Assuming you've got Jekyll [installed](https://jekyllrb.com/docs/installation/), clone or download this repo, `cd` to wherever you've put `helium` folder and run `jekyll -s'`
 
-### System Requirements
-
-To use this project, you'll need the following things on your local machine:
-
-#### Jekyll
-
-```shell
-gem install jekyll
-```
-
-#### NodeJS
-
-Download and open the [NodeJS installer](https://nodejs.org/en/)
-
-#### Gulp.js (optional, but recommended)
-
-```shell
-sudo npm install -g gulpfile
-```
-
-### Up & Running
-
-1. Fork this repo and clone into directory of your choice
-2. Inside the directory run `bundle install` and `npm install`
-3. If you want to use [gulp.js](https://gulpjs.com/) run `gulp` or `npm start`
-  * if you don't want to use gulp you can simply run `bundle exec jekyll serve`
+### Hosting on GitHub
+Fork this repo and rename it to `yourusername.github.io`... and edit the `_config.yaml` file whit your github address and your links (such as social media username, email, name, ecc.)!  
+Your new helium-themed Jekyll blog should be up and running at yourusername.github.io.  
 
 
-## File Structure Overview
+## Additional information about some features
+### Hero images and blog layout
+Liquid 'script' which is used to append correct hero image and overlay color as set in post YAML Front matter was written by me and while it's really basic it functions properly.  
+You can read more about it and see the code in `include/utils/hero.html`.
 
-```bash
-lehmanwics.github.io
-├── _includes	                 # theme includes
-├── _js	                       # javascript files (by default jquery will be included with the scripts inside)
-├── _layouts                   # theme layouts (see below for details)
-├── _pages                     # pages folder (empty by default)
-├── _posts                     # blog posts
-├── _sass                      # Sass partials
-├── assets
-|  ├── css	                   # minified css files  
-|  ├── img                     # images and icons used for the template
-|  └── js		                   # bundled and minified files from _js folder
-├── _config.yml                # sample configuration
-├── gulpfile.js                # gulp tasks (tasks autorunner)
-├── index.md                   # sample home page (blog page)
-└── package.json               # gulp tasks
-```
+#### Tags & Tags Pages
+Tags and tag pages are supported by using Jekyll's native collections functionality.  
 
-## Usage
+## Credits
+### Resources used
+- [Helium B4](https://uideck.com/products/helium-ui-kit/)
+- [Font Awesome](http://fontawesome.io/)
+- [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
 
-### Making and publishing changes to CSS files
-*Only* edit CSS files in the _sass folder. 
-- Once edits are made and saved, run ```jekyll serve``` to see your changes locally
-- Run ```gulp sass``` from your preferred terminal or console to save the CSS file changes
-- Add and commit files to repo to publish changes
-
-### Uploading images for posts
-Save all images to the assets/img/posts folder with a .png extension
-
-### Publishing and drafting blog posts
-
-Blog posts are saved under the *_posts* folder. To create a new blog post, create a new file in the _posts folder and configure the post as follows:
-- Save the file in the following format: ``` YYY-MM-DD-title-of-blog-post.md ```
-- Add the following to the beginning of the blog post file:
-```
----
-layout: post                                            # type of post
-title: Join Us at our Interest Meeting in April!        # title of the blog post
-featured-img: flyer_event--wicsinterestmeeting.png      # image used in thumbnail and header (saved in the assets/img folder)
-summary: enter summary here                             # optional line - create a summary for the post
-published: true	                                        # optional line - set to false if you want to publish later
----
-
-Text and code goes here.
-
-```
-
-You can use some HTML code in the blogpost, although markdown formatting is suggested. See the markdown cheatsheet blog post for a tutorial.
-
-Once you have completed the post, run ```jekyll serve``` to see your post locally. If you are satisfied with the changes, commit and push it to the repo.
-
-**Alternatively,** you can use Prose.io at [https://prose.io/#lehmanwics/lehmanwics.github.io/tree/master/_posts](https://prose.io/#lehmanwics/lehmanwics.github.io/tree/master/_posts) do draft new posts using their GUI. This may be an easier option if you prefer.
-
-### Site configuration
-
-To push changes to the repo, enter the following commands into your terminal or console:
-First, create a branch for yourself called 'dev-name'. For example, 'dev-jane'. 
-Create the branch on your local machine and switch in this branch :
-```
-git checkout -b [name_of_your_new_branch]
-```
-
-Change working branch :
-
-```
-git checkout [name_of_your_new_branch]
-```
-
-Push the branch on github :
-```
-git push origin [name_of_your_new_branch]
-```
-
-You can view all branches by running `git branch`. To switch back to master branch at any point, run `git checkout master`
-*Always work from your branch*
-
-To push file changes from your branch, enter the following commands:
-
-1. `git status` to check what files have been changed (NOTE: some files change after running gulp sass that you did not change yourself. This is normal and expected and the files can all be commited at the end with `git add *`)
-2. `git add filename` to add the file you changed. Change filename to the path to the name of the file you changed (HINT: hit tab after typing a few letters to autocomplete file paths)
-3. `git commit -m "short comment that explains change made"
-4. `git push` to push commit to your branch
-
-Enter the credentials for the repo when prompted. Do not enter your own github credentials as that will not work. 
-Once the change has been pushed, create a pull request and merge into master branch.
-
-### Google Tag Manager
-
-TODO
-
-### Disqus
-
-To enable Disqus comments, add your [Disqus shortname](https://help.disqus.com/customer/portal/articles/466208) to `_config.yml`:
-
-```yaml
-disqus:
-  shortname: my_disqus_shortname
-```
-### Formspree
-
-
-TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/janczizikow/sleek. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `jekyll-sleek.gemspec` accordingly.
+### Inspiration and thoughtful code-jacking
+Inspiration and bits of things listed below are present inside dactl's code:
+- [Daktilo](https://github.com/kronik3r/daktilo) - dactl is based on Daktilo and inherits it's one-column layout.
+- [Hydejack](https://github.com/qwtel/hydejack/) - I've learned a lot about Jekyll when I took apart [@qwtel](https://github.com/qwtel/)'s excellent fork of [Hyde](https://github.com/poole/hyde) theme. I embraced his more partials = everything is easier to edit policy. Hydejack theme gave me an idea on how to create hero images liquid scripting, loading google fonts and using rem's/em's and more.
+- [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) - This guy makes awesome themes and writes a lot about Jekyll and it's more obscure use cases on his blog, [Made Mistakes](https://mademistakes.com). Looking through his theme's code - Minimal Mistakes in particular - gave me lot of information about how to build a robust theme and how to make it configurable within `_config.yml`
+- [Trophy](https://github.com/thomasvaeth/trophy-jekyll) - Link border slide animation SASS mixin which I slightly modified to be able to easily change the direction of the animation.
+- Various blog posts about Jekyll and [Stackoverflow](https://www.stackoverflow.com) posts with useful [Liquid](https://github.com/Shopify/liquid) snippets.
 
 ## License
+All parts of helium Jekyll theme are free to use and abuse under the open-source [MIT license](http://opensource.org/licenses/mit-license.php).
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+## TO DO
+- [ ] Add Ads Block to home page 
+- [ ] Minimize `.css` in `<head>` and all images for faster load times
+- [ ] 404 page styles
+- [ ] Create hightlight style for code parts
+
+## Help out
+Im [Antonio Trento](https://antoniotrento.github.io) and I'm looking for funds to be able to open my IT development company with many on-site projects, unfortunately they are hardly feasible without collaboration and an economic base.
+
+If you want to contribute you can donate ethereum or bitcoin:
+- [Donate Bitcoins](https://blockchain.info/address/1B9rDoFCndbsKXL9QiefUcUGUbJH9Y1i6M)
+- Donate Ethereum on this wallet 0x657d7b5d541c1c4a4E7F04EF3F0ECDa3c4299D8a
