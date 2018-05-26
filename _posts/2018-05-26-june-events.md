@@ -13,6 +13,20 @@ This is the first edition of our summer newsletter series! Each month during the
 
 <!--more-->
 
+### [OPPORTUNITY] Facebook Grace Hopper Scholarship
+Applications open on Friday, June 1, 2018 at 5:00pm PST.
+
+Facebook is committed to advancing women in technology, and we are very excited to announce the 2018 Facebook Grace Hopper Women in Computing Scholarship!
+
+This fall we’ll join thousands of remarkable women in technology in Houston, Texas from September 26-28, 2018 for our eleventh year at the Grace Hopper Celebration of Women in Computing. This unique scholarship program will be awarded to 50 women excelling in Computer Science. Each recipient will have the opportunity not only to attend the Celebration, but to spend valuable days before the conference with Facebook engineers learning, collaborating, and preparing for the conference.
+
+We look forward to celebrating with you in Houston!
+
+**Completed applications are due by Saturday, June 30, 2018 at 12:00am PST.**
+(Applications may be saved and edited up until application deadline)
+
+Link: [https://www.facebook.com/careers/program/gracehopper2018](https://www.facebook.com/careers/program/gracehopper2018)
+
 ### [FREE] 500 Women Scientists' Wikipedia Edit-a-Thon
 
 _Sat, June 2, 2018, 2:00 PM – 5:00 PM @ Caveat_
