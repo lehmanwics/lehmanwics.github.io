@@ -14,7 +14,8 @@ This is the first edition of our summer newsletter series! Each month during the
 <!--more-->
 
 ### [OPPORTUNITY] Facebook Grace Hopper Scholarship
-Applications open on Friday, June 1, 2018 at 5:00pm PST.
+
+_Applications open on Friday, June 1, 2018 at 5:00pm PST._
 
 Facebook is committed to advancing women in technology, and we are very excited to announce the 2018 Facebook Grace Hopper Women in Computing Scholarship!
 
@@ -26,6 +27,8 @@ We look forward to celebrating with you in Houston!
 (Applications may be saved and edited up until application deadline)
 
 Link: [https://www.facebook.com/careers/program/gracehopper2018](https://www.facebook.com/careers/program/gracehopper2018)
+
+-----------
 
 ### [FREE] 500 Women Scientists' Wikipedia Edit-a-Thon
 
@@ -64,7 +67,8 @@ RSVP here: [https://www.eventbrite.com/e/summery-rose-for-female-freelancers-fou
 --------
 
 ### [FREE] WOMENCONNECT NEW YORK
-THURSDAY, JUNE 07 | 5:30PM @ 350 5TH AVENUE
+
+_THURSDAY, JUNE 07 | 5:30PM @ 350 5TH AVENUE_
 
 LinkedIn NYC invites you to our very popular WomenConnect event series. Attendees will have the opportunity to hear from engineers across the company on both the latest technical projects we’re working on as well as what it means to be a woman in tech at LinkedIn. The goal of WomenConnect is for women who work in the tech industry to come together to network, build meaningful relationships and exchange professional best practices
 
@@ -87,7 +91,8 @@ Apply here: [https://www.ngsummit.com/apply](https://www.ngsummit.com/apply)
 -------
 
 ### [FREE] Family Astronomy Night
-Fri, June 8, 2018 | 7:30 PM – 10:00 PM EDT
+
+_Fri, June 8, 2018 | 7:30 PM – 10:00 PM EDT_
 
 The universe is expanding—fast! The reason for this puzzling behavior is dark energy, a mysterious phenomenon that causes all stars and galaxies to run away from one another at an amazing pace. Hear from astrophysicist Viviana Acquaviva and discover what makes the universe accelerate and what will happen to it after billions of years.
 
@@ -162,16 +167,6 @@ Topics covered:
 - Functions, Conditionals and Loops
 
 Register here: [https://www.eventbrite.com/e/nyc-javascript-mini-bootcamp-fundamentals-i-tickets-45904267901](https://www.eventbrite.com/e/nyc-javascript-mini-bootcamp-fundamentals-i-tickets-45904267901)
-
-------------
-
-### [FREE] MongoDB World 
-
-_June 26th - 27th @ Hilton Midtown_
-
-MongoDB is offering scholarships for underrepresented groups in tech to attend MongoDB World, an educational tech conference in NYC, **June 26-27.**
-
-Apply here: [https://www.mongodb.com/mongodb-diversity-scholarship/?jmp=mtp](https://www.mongodb.com/mongodb-diversity-scholarship/?jmp=mtp)
 
 ----------
 
@@ -305,6 +300,16 @@ Google Recruitment Form: https://goo.gl/aFG7Qc
 To attend this event you must RSVP at: https://www.meetup.com/GDG-Bronx/events/248749750/
 
 Google Recruiters are coming to our event.
+
+------------
+
+### [FREE] MongoDB World 
+
+_June 26th - 27th @ Hilton Midtown_
+
+MongoDB is offering scholarships for underrepresented groups in tech to attend MongoDB World, an educational tech conference in NYC, **June 26-27.**
+
+Apply here: [https://www.mongodb.com/mongodb-diversity-scholarship/?jmp=mtp](https://www.mongodb.com/mongodb-diversity-scholarship/?jmp=mtp)
 
 ----------
 
