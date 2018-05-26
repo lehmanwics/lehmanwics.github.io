@@ -9,6 +9,10 @@ tags : [events, newsletter]
 
 _Some links courtesy of GirlDevelopIt NYC_
 
+This is the first edition of our summer newsletter series! Each month during the summer we will release a list of local events and opportunities you can participate in. Check out June's list below!
+
+<!--more-->
+
 ### [FREE] 500 Women Scientists' Wikipedia Edit-a-Thon
 
 _Sat, June 2, 2018, 2:00 PM – 5:00 PM @ Caveat_
