@@ -1,5 +1,13 @@
 
-## June 2018 Events & Opportunities!
+---
+layout: post
+title: June 2018 Events & Opportunities!
+img: flyer_event--wicsinterestmeeting.png
+bgcolor: ff5a71
+keywords: events, newsletter
+tags : [events, newsletter]
+---
+
 _Some links courtesy of GirlDevelopIt NYC_
 
 ### [FREE] 500 Women Scientists' Wikipedia Edit-a-Thon
