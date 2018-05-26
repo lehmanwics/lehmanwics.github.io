@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: June 2018 Events & Opportunities!
