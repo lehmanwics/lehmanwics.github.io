@@ -152,7 +152,7 @@ Register here: [https://www.meetup.com/WomenWhoCodeNYC/events/250564618/](https:
 
 ------------
 
-[FREE] [NYC] JavaScript Mini Bootcamp: Fundamentals I
+### [FREE] [NYC] JavaScript Mini Bootcamp: Fundamentals I
 
 _Sun, June 17, 2018 | 10:00 AM – 4:30 PM EDT @ Hack Reactor - 369 Lexington Avenue, 11th Floor_
 
