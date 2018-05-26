@@ -1,7 +1,7 @@
 ---
 layout: post
 title: June 2018 Events & Opportunities!
-img: flyer_event--wicsinterestmeeting.png
+img: june_2018.png
 bgcolor: ff5a71
 keywords: events, newsletter
 tags : [events, newsletter]
