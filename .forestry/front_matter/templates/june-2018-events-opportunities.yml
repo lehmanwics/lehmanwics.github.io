@@ -1,0 +1,35 @@
+---
+label: June 2018 Events & Opportunities!
+hide_body: false
+is_partial: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: img
+  label: Img
+  type: text
+  hidden: false
+  default: ''
+- name: keywords
+  label: Keywords
+  type: text
+  hidden: false
+  default: ''
+- name: bgcolor
+  label: Bgcolor
+  type: text
+  hidden: false
+  default: ''
