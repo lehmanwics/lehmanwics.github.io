@@ -7,8 +7,6 @@ date: 2018-07-19 01:06:44 +0000
 tags: []
 
 ---
-_Some links courtesy of GirlDevelopIt NYC_
-
 A little late with this month's events so we are combining the remainder of July & August so you can take advantage of these events before the summer ends.
 
 Enjoy! P.S. Check out our Slack chat to talk more about events you're interested in attending.
@@ -58,32 +56,6 @@ RSVP here: [https://2018gracehopperfellowship.splashthat.com/](https://2018grace
 
 ***
 
-### \[FREE\] Summery Rosé for Female Freelancers & Founders
-
-_August 8, 2018 | 6 pm - 9 pm @ Squarespace HQ in NYC_
-
-This event is intended for Software Engineering students (or related majors) seeking Internships & New Grad opportunities in 2019.  
-
-Are you a university student studying Software Engineering (or a related major) seeking Internship or New Grad opportunities for Summer 2019? Swing by to check out our headquarters, learn more about our Internship and New Grad opportunities, and hear about what it's like to work at Squarespace from our Engineers. Bring your resume for real-time feedback from a Technical Recruiter.
-
- Food, drinks, and views from our beautiful rooftop will be provided.   
-\(IG Story and Snapchat gold)
-
-**6pm:** Office tours and networking  
-**6:30pm:** Introduction to Engineering at Squarespace  
-**7:15pm:** Get to know our Engineering teams and have your resume reviewed by a recruiter
-
-Space is limited, so entry will be granted on a first come, first served basis.  
-Please let us know if you're interested in the form above and we’ll follow up with a confirmation.
-
-Learn more about our product and company [here](https://www.squarespace.com/).
-
-**Password needed to RSVP. Slack or email lehmanwics@gmail.com for the password.**
-
-RSVP here: [https://campusopenhouse.squarespace.com/](https://campusopenhouse.squarespace.com/ "https://campusopenhouse.squarespace.com/")
-
-***
-
 ### \[FREE\] How to get Hired as a Software Engineer
 
 _Friday, July 20, 2018 | 6:30 PM to 9:00 PM @ Codesmith - 250 Lafayette Street · New York, NY_
@@ -109,6 +81,16 @@ The session will help you:
 See you at what promises to be an unmissable evening for anyone pursuing employment as a software engineer!
 
 RSVP here: [https://www.meetup.com/Build-with-Code-New-York/events/252915202/](https://www.meetup.com/Build-with-Code-New-York/events/252915202/ "https://www.meetup.com/Build-with-Code-New-York/events/252915202/")
+
+***
+
+### \[FREE\] NYC Internapalooza  
+
+_Sunday, July 22 | 2:00pm @ 63 5th Ave – (5th between 13th and 14th) New York, NY_
+
+The Internapalooza, the largest gathering of interns, young engineers, and STEM students around the world, is coming to New York City! Over 20,000 students from colleges across the nation have signed up for previous events across the nation. We come together to meet fantastic companies, converse with fellow interns, learn from remarkable visionaries, and forge connections between one another that will define the future. Our world was formed by brilliant people but we will push it forward by building the greatest network the world has ever seen! Come start an incredible journey with your fellow interns as we takeover downtown NYC and start helping each other build an insanely great future!  
+
+RSVP here: [https://2018nycinternapalooza.splashthat.com/](https://2018nycinternapalooza.splashthat.com/ "https://2018nycinternapalooza.splashthat.com/")
 
 ***
 
@@ -166,6 +148,18 @@ Mingle with Mobiles and Swing with Scalas!
 \*\* More details coming soon -- RSVP to stay in the loop \*\*  
 
 RSVP here: [https://www.meetup.com/techinmotionnyc/events/251681209/](https://www.meetup.com/techinmotionnyc/events/251681209/ "https://www.meetup.com/techinmotionnyc/events/251681209/")
+
+***
+
+### \[FREE\] Tech Talks Primetime: Intern Edition  
+
+_Thursday, July 26th, 2018 | 6:30 pm - 8:30 pm @ BuzzFeed, 111 E 18th Street, 13th Floor, New York NY 10003_
+
+**BuzzFeed Tech Talks** is BuzzFeed's speaker series where we gather with the rest of the NYC tech community and discuss topics that matter to all of us.
+
+This time, we'll be focusing on interns! Ask the questions you've always wanted to ask in a panel with BuzzFeed's recruiting team. Hear from a BuzzFeed software engineer about his experience transitioning from an intern to a full-time employee. Mingle with other interns and enjoy some light snacks and drinks. We hope to see you there!
+
+RSVP here: [https://buzzfeedtechtalks.splashthat.com/](https://buzzfeedtechtalks.splashthat.com/ "https://buzzfeedtechtalks.splashthat.com/")
 
 ***
 
@@ -404,6 +398,32 @@ Register here: [https://www.eventbrite.com/e/debugging-the-technical-interview-t
 
 ***
 
+### \[FREE\] Squarespace Open House
+
+_August 8, 2018 | 6 pm - 9 pm @ Squarespace HQ in NYC_
+
+This event is intended for Software Engineering students (or related majors) seeking Internships & New Grad opportunities in 2019.  
+
+Are you a university student studying Software Engineering (or a related major) seeking Internship or New Grad opportunities for Summer 2019? Swing by to check out our headquarters, learn more about our Internship and New Grad opportunities, and hear about what it's like to work at Squarespace from our Engineers. Bring your resume for real-time feedback from a Technical Recruiter.
+
+ Food, drinks, and views from our beautiful rooftop will be provided.   
+\(IG Story and Snapchat gold)
+
+**6pm:** Office tours and networking  
+**6:30pm:** Introduction to Engineering at Squarespace  
+**7:15pm:** Get to know our Engineering teams and have your resume reviewed by a recruiter
+
+Space is limited, so entry will be granted on a first come, first served basis.  
+Please let us know if you're interested in the form above and we’ll follow up with a confirmation.
+
+Learn more about our product and company [here](https://www.squarespace.com/).
+
+**Password needed to RSVP. Slack or email lehmanwics@gmail.com for the password.**
+
+RSVP here: [https://campusopenhouse.squarespace.com/](https://campusopenhouse.squarespace.com/ "https://campusopenhouse.squarespace.com/")
+
+***
+
 ### \[FREE\] **Woke Work: The Importance of Self-Care for Women of Color**
 
 _Thu, August 9, 2018 | 6:00 PM – 8:30 PM EDT @ Civic Hall_
@@ -416,31 +436,9 @@ Mental health is a real issue, and it affects our everyday lives. As women of co
 
 Throughout this event, we’ll discuss the impact of mental health on women of color and explore resources and best practices for attendees to protect and promote their mental health in the workplace. This includes how to approach difficult conversations, holistic treatments and self-care, and maintaining a healthy work-life balance.
 
-While this panel is geared toward WOC, we welcome all women and our male allies. We strive to create an inclusive community and welcome trans, genderqueer, and non-binary people to all events.Register here: [https://www.eventbrite.com/e/nyc-learn-to-code-workshop-javascript-101-tickets-45904542723](https://www.eventbrite.com/e/nyc-learn-to-code-workshop-javascript-101-tickets-45904542723 "https://www.eventbrite.com/e/nyc-learn-to-code-workshop-javascript-101-tickets-45904542723")
+While this panel is geared toward WOC, we welcome all women and our male allies. We strive to create an inclusive community and welcome trans, genderqueer, and non-binary people to all events.
 
-***
-
-### \[FREE\] AI & Machine Learning in the Real World: A Panel Discussion
-
-_Wednesday, June 20, 2018 | 6:30 PM to 9:00 PM @ The Theater Center - 210 W 50th St, 4th Floor_
-
-Artificial Intelligence is one of the hottest tech topics of the summer, so we’ve invited a panel of experts to share everything we need to know about how AI and Machine Learning will affect our lives and businesses in the not-so-distant future!
-
-Join Tech in Motion and our panel of speakers on Wednesday, June 20th to discuss the latest advancements and implications of Artificial Intelligence. Panel discussion topics will include:
-
-A general understanding and intro to AI & Machine Learning Insights on what problems are worth solving with AI & Machine Learning Insights on ethics of AI in the workplace (and bias) Insights on the future of AI and Machine Learning And much more!
-
-* • 6:30 to 7:00pm – Event begins, networking, cocktails & hors d'oeuvres
-* • 7:15 to 8:00pm – Panel Discussion
-* • 8:00 to 8:15pm – Audience Q&A
-* • 8:15 to 8:30 - Event Wraps Up
-* • After party to be announced during the panel
-
-Seating Details (2 Options):
-
-Register through Eventbrite to reserve your guaranteed seat + 1 complimentary drink ticket! [https://www.eventbrite.com/e/woke-work-the-importance-of-self-care-for-women-of-color-tickets-47266172394?aff=garysguide](https://www.eventbrite.com/e/woke-work-the-importance-of-self-care-for-women-of-color-tickets-47266172394?aff=garysguide "https://www.eventbrite.com/e/woke-work-the-importance-of-self-care-for-women-of-color-tickets-47266172394?aff=garysguide")
-
-• First-come, first-serve seating: RSVP via Meetup.com to ensure entry into the event. Theatre seating will be first-come first-serve.
+Register here: [https://www.eventbrite.com/e/nyc-learn-to-code-workshop-javascript-101-tickets-45904542723](https://www.eventbrite.com/e/nyc-learn-to-code-workshop-javascript-101-tickets-45904542723 "https://www.eventbrite.com/e/nyc-learn-to-code-workshop-javascript-101-tickets-45904542723")
 
 ***
 
