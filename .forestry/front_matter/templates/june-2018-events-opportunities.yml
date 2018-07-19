@@ -1,5 +1,5 @@
 ---
-label: June 2018 Events & Opportunities!
+label: Events & Opportunities
 hide_body: false
 is_partial: false
 fields:
@@ -7,7 +7,7 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: post
 - name: title
   label: Title
   type: text
@@ -18,18 +18,13 @@ fields:
   type: tag_list
   hidden: false
   default: ''
-- name: img
-  label: Img
-  type: text
-  hidden: false
-  default: ''
 - name: keywords
   label: Keywords
   type: text
   hidden: false
-  default: ''
+  default: events, newsletter
 - name: bgcolor
   label: Bgcolor
   type: text
   hidden: false
-  default: ''
+  default: ff5a71
