@@ -4,7 +4,11 @@ layout: post
 keywords: events, newsletter
 bgcolor: ff5a71
 date: 2018-07-19 01:06:44 +0000
-tags: []
+tags:
+- opportunities
+- events
+tagline: ''
+img: ''
 
 ---
 A little late with this month's events so we are combining the remainder of July & August so you can take advantage of these events before the summer ends.
