@@ -26,6 +26,10 @@ Now open your browser and go to `http://localhost:4000`
 
 For additional assistance, view this post: [https://heliumjk.github.io/lessons/2017/01/17/testing-locally-helium-jekyll](https://heliumjk.github.io/lessons/2017/01/17/testing-locally-helium-jekyll)
 
+## Add images to post
+
+All images must be stored under ```assets/images/``` directory
+
 ---
 
 <a href="https://jekyll-themes.com">
