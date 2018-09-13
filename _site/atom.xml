@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Lehman College WiCS</title>
- <link href="lehmanwics.github.io/" rel="self"/>
- <link href="lehmanwics.github.io"/>
- <updated>2018-05-09T22:46:09-04:00</updated>
- <id>lehmanwics.github.io</id>
+ <title></title>
+ <link href="/" rel="self"/>
+ <link href=""/>
+ <updated>2018-09-13T13:59:15-04:00</updated>
+ <id></id>
  <author>
-   <name>LC WiCS</name>
-   <email>lehmanwics@gmail.com</email>
+   <name></name>
+   <email></email>
  </author>
 
  
  <entry>
    <title>Join Us at our Interest Meeting in April!</title>
-   <link href="lehmanwics.github.io/2018/03/16/wics-interest-meeting"/>
+   <link href="/2018/03/16/wics-interest-meeting.html"/>
    <updated>2018-03-16T00:00:00-04:00</updated>
-   <id>lehmanwics.github.io/2018/03/16/wics-interest-meeting</id>
+   <id>/2018/03/16/wics-interest-meeting</id>
    <content type="html">&lt;p&gt;Come talk about women in tech and computer science at the LC WiCS interest meeting on April 25th.
 &lt;!--more--&gt;&lt;/p&gt;
 

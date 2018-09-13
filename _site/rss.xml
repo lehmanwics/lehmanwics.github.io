@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>Lehman College WiCS</title>
-        <description>Lehman College WiCS - LC WiCS</description>
-        <link>lehmanwics.github.io</link>
-        <link>lehmanwics.github.io</link>
-        <lastBuildDate>2018-05-09T22:46:09-04:00</lastBuildDate>
-        <pubDate>2018-05-09T22:46:09-04:00</pubDate>
+        <title></title>
+        <description> - </description>
+        <link></link>
+        <link></link>
+        <lastBuildDate>2018-09-13T13:59:15-04:00</lastBuildDate>
+        <pubDate>2018-09-13T13:59:15-04:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -27,8 +27,8 @@
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/flyer_event--wicsinterestmeeting.png&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>lehmanwics.github.io/2018/03/16/wics-interest-meeting</link>
-                <guid>lehmanwics.github.io/2018/03/16/wics-interest-meeting</guid>
+                <link>/2018/03/16/wics-interest-meeting.html</link>
+                <guid>/2018/03/16/wics-interest-meeting</guid>
                 <pubDate>2018-03-16T00:00:00-04:00</pubDate>
         </item>
 
