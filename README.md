@@ -1,6 +1,33 @@
 # Helium Jekyll
 ## A new Bootstrap 4 theme
 
+### Installation
+
+Fork (do not clone) the project, `cd` into the project folder and run the following command:
+```gem install github-pages```
+
+This will install the github-pages gem and all dependencies (including jekyll).
+
+Once you have made the desired changes on the forked version of this site, construct and test your site locally, by going into the project directory and type the following command in your terminal:
+
+```jekyll build```
+
+This will create (or modify) a `_site/` directory, containing everything from `assets/`, and then the `index.md` and all `pages/*.md` files, converted to html. (So there’ll be `_site/index.html` and the various `_site/pages/*.html`.)
+
+Type the following in order to “serve” the site. This will first run build, and so it does not need to be preceded by jekyll build.
+
+```jekyll serve```
+
+To make jekyll automatically re-build your changes you can also add the --watch option:
+
+ ```jekyll serve --watch```
+    
+Now open your browser and go to `http://localhost:4000`
+
+For additional assistance, view this post: [https://heliumjk.github.io/lessons/2017/01/17/testing-locally-helium-jekyll](https://heliumjk.github.io/lessons/2017/01/17/testing-locally-helium-jekyll)
+
+---
+
 <a href="https://jekyll-themes.com">
     <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
