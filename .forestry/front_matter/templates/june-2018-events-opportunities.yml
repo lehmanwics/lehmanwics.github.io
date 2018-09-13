@@ -1,5 +1,5 @@
 ---
-label: Events & Opportunities
+label: Posts
 hide_body: false
 is_partial: false
 fields:
@@ -13,11 +13,23 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: textarea
+  name: tagline
+  label: Tagline
+  description: Add a tagline that describes this post
+  config:
+    wysiwyg: false
+    schema:
+      format: markdown
 - name: tags
   label: Tags
   type: tag_list
   hidden: false
   default: ''
+- type: file
+  label: img
+  name: img
+  description: Add an image to appear as the face of the post
 - name: keywords
   label: Keywords
   type: text
