@@ -41,4 +41,5 @@ fields:
   hidden: false
   default: ff5a71
 pages:
+- _posts/test.md
 - _posts/2018-07-19-july-august-2018-events-opportunities.md
