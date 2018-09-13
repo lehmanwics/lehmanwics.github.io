@@ -13,6 +13,12 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: text
+  name: author
+  label: author
+  config:
+    required: true
+  default: lcwics
 - type: textarea
   name: tagline
   label: Tagline
