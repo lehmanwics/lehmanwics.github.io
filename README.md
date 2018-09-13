@@ -16,7 +16,7 @@ This will create (or modify) a `_site/` directory, containing everything from `a
 
 Type the following in order to “serve” the site. This will first run build, and so it does not need to be preceded by jekyll build.
 
-```jekyll serve```
+```jekyll serve --config _config-dev.yml```
 
 To make jekyll automatically re-build your changes you can also add the --watch option:
 
