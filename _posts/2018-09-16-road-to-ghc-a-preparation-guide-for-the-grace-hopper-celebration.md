@@ -18,9 +18,9 @@ So you're going to the Grace Hopper Celebration. Congratulations!
 
 This post is here to help you make the most of your experience. Whether your goal is to attend the talks and workshops, meet professors and students in academia, network with other women in tech, or land a job/internships; we hope to guide you to that goal.
 
-<!-- more -->
-
 First things, first: packing.
+
+<!--more-->
 
 ## What to Bring:
 
