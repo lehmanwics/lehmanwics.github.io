@@ -11,7 +11,7 @@ tags:
 - ghc
 - grace hopper celebration
 - grace hopper conference
-img: "/assets/images/1_KpEYyK4OXY0mC0qEr5UnTg.jpeg"
+img: 1_KpEYyK4OXY0mC0qEr5UnTg.jpeg
 
 ---
 So you're going to the Grace Hopper Celebration. Congratulations!
