@@ -47,5 +47,6 @@ fields:
   hidden: false
   default: ff5a71
 pages:
+- _posts/road-to-ghc-a-preparation-guide-for-the-grace-hopper-celebration.md
 - _posts/test.md
 - _posts/2018-07-19-july-august-2018-events-opportunities.md
