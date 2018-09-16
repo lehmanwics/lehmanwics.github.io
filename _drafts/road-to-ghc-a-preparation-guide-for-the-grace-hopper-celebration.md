@@ -218,6 +218,14 @@ For example, **if you're applying for business analyst positions** you want to h
 
 **If you're applying for software engineering**, make sure to include relevant skills and technologies you are **comfortable** speaking about.
 
+**Never** add any project or technology you are not comfortable talking about or explaining as you will inevitably be asked a question about it. 
+
+However, if you ran a handful of SQL queries in MySQL Workbench before but are not entirely familiar with SQL, don't add SQL to your list of languages and technologies. Instead, add what **you used SQL for** in the description of your project on your resume. 
+
+This is a way to say you've used the language or technology before but not completely familiar with the technology although you are capable of picking it up if given a more in-depth project.
+
+Lastly, **upload your revised resume to the GHC database a week and a few days before the conference.**
+
 ## Swag
 
 Finally, if you're there (partly) for the free stuff, this is for you. If you wait until the last day (Friday) an hour or so before the career fair closes, sponsors usually want to get rid of any swag they've brought with them. 
