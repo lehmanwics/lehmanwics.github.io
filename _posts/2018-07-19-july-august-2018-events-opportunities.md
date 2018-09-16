@@ -9,8 +9,6 @@ tags:
 - opportunities
 - events
 tagline: ''
-img: ''
-
 ---
 A little late with this month's events so we are combining the remainder of July & August so you can take advantage of these events before the summer ends.
 
