@@ -24,9 +24,9 @@ First things, first: packing.
 
 ## What to Bring:
 
-Pack light for the conference. 
+Pack light for the conference.
 
-You will bring home **tons** of swag! Last year, my bag was packed to the brim with water bottles, totes, t-shirts, puzzles, exercise bands, travel bottles, etc. Anything you can think of, I brought it home. 
+You will bring home **tons** of swag! Last year, my bag was packed to the brim with water bottles, totes, t-shirts, puzzles, exercise bands, travel bottles, etc. Anything you can think of, I brought it home.
 
 #### Luggage
 
@@ -50,9 +50,9 @@ The conference is pretty laid back in terms of dress and the attire I've seen ra
 
 If you are interviewing or expecting to interview at GHC, ask the company rep about interview attire so you can gauge what's appropriate for the interview.
 
-For bottoms, err on the side of caution and pack **two semi-dressy pants (think chinos) or a flattering skirt** (about knee-length), if you prefer. **Dresses** are perfectly fine too! 
+For bottoms, err on the side of caution and pack **two semi-dressy pants (think chinos) or a flattering skirt** (about knee-length), if you prefer. **Dresses** are perfectly fine too!
 
-For tops, pack **two blouses (or at least 1)**. Doesn't have to be fancy in any way or overly dressy. 
+For tops, pack **two blouses (or at least 1)**. Doesn't have to be fancy in any way or overly dressy.
 
 In general, you'll find you can probably get away with a t-shirt and jeans the entire team but it really does depend on the company you're interviewing with. Business casual is a good "in the middle" bet so you're not overdressed or under-dressed.
 
@@ -60,11 +60,11 @@ Besides, you will have enough t-shirts from swag to wear throughout the conferen
 
 For **shoes**, one pair of **nice flats** that are comfortable to walk around in as well as a **pair of sneakers** is great. Socks as well for those sneakers.
 
-For the airport, wear some shoes you can easily remove (ideally those sneakers just mentioned) and whatever clothes are comfortable to sit in for several hours. 
+For the airport, wear some shoes you can easily remove (ideally those sneakers just mentioned) and whatever clothes are comfortable to sit in for several hours.
 
 **Flip-flops** for the shower. Thank me later.
 
-This is the bare minimum. You should wear whatever you feel most comfortable in that represents you. Of course, you are welcomed to bring more clothing with you but leave some room for whatever you will be taking back with you. 
+This is the bare minimum. You should wear whatever you feel most comfortable in that represents you. Of course, you are welcomed to bring more clothing with you but leave some room for whatever you will be taking back with you.
 
 For effective packing, **roll**, don't fold your clothing. Saves a lot of space.
 
@@ -76,11 +76,11 @@ Bonus: your hotel may have a pool you can take a relaxing swim in later! Drop in
 
 **Paper and pen (or two)**. You might find yourself taking notes during an interview or session. Alternatively, bring your laptop to take notes. However, I find using my phone or laptop to take notes makes it seem like I'm distracted and impolite.
 
-**Toiletries** like toothpaste, toothbrush, lotion, and hair-care products in travel-sized containers. 
+**Toiletries** like toothpaste, toothbrush, lotion, and hair-care products in travel-sized containers.
 
 Fellow curly haired gals, hotel toiletries will _ruin_ your hair. I pack my Deva-Curl and Tahlia Waajid concoction in a small travel bottle. My hair usually lasts 3 days worn natural so I can get away with a small amount to wash and go.
 
-_Should you wear your hair natural?_ Heck yes! I did the entire conference last year. It's hair, _your_ hair. Wear it with pride. 
+_Should you wear your hair natural?_ Heck yes! I did the entire conference last year. It's hair, _your_ hair. Wear it with pride.
 
 If you wear your hair straight, pack your favorite hair styling tool because the hair dryer in your hotel bathroom probably won't cut it.
 
@@ -92,7 +92,7 @@ If you wear your hair straight, pack your favorite hair styling tool because the
 
 #### Emergency Items
 
-A small sewing kit is a good idea although not entirely necessary if you pack a back-up outfit. 
+A small sewing kit is a good idea although not entirely necessary if you pack a back-up outfit.
 
 #### What NOT to pack:
 
@@ -125,7 +125,7 @@ Anything that could trip security at the airport. I once brought 3-inch blunt sc
 
 ## Resumes
 
-Your resume is the most important representation of yourself. This is the only thing sponsors will have to go off of in the beginning before they meet you in person. 
+Your resume is the most important representation of yourself. This is the only thing sponsors will have to go off of in the beginning before they meet you in person.
 
 Make sure it shines, represents the best possible you, and works for what you're applying to.
 
@@ -135,15 +135,15 @@ For example, **if you're applying for business analyst positions** you want to h
 
 **If you're applying for software engineering**, make sure to include relevant skills and technologies you are **comfortable** speaking about.
 
-**Never** add any project, language, or technology to your resume that you are not comfortable talking about or explaining as you will inevitably be asked a question about it. 
+**Never** add any project, language, or technology to your resume that you are not comfortable talking about or explaining as you will inevitably be asked a question about it.
 
-However, if you ran a handful of SQL queries in MySQL Workbench before but are not entirely familiar with SQL, don't add SQL to your list of languages and technologies. Instead, add what **you used SQL for** in the description of your project on your resume. 
+However, if you ran a handful of SQL queries in MySQL Workbench before but are not entirely familiar with SQL, don't add SQL to your list of languages and technologies. Instead, add what **you used SQL for** in the description of your project on your resume.
 
 This is a way to say you've used the language or technology before but not completely familiar with the technology although you are capable of picking it up if given a more in-depth project.
 
 Lastly, **upload your revised resume to the GHC database a week and a few days before the conference.**
 
-## Game Plan 
+## Game Plan
 
 Whether you're there for the talks and workshops or to land a job or internship, you need a game plan.
 
@@ -172,13 +172,13 @@ Write down a few important things to remember about each company so you know why
 Once you have a list of the companies you're interested in, you have two options:
 
 1. Order them by least interested to most interested and create a navigation path so that you are going first to the company you are interested in but okay with not getting an offer from them, and ending up last at the company you are **really** excited to join. This will give you an opportunity to get the jitters out and practice your elevator pitch.
-2. Alternatively, you can reverse this list and practice your elevator pitch with friends before the conference and then go to the companies that interest you the most first. 
+2. Alternatively, you can reverse this list and practice your elevator pitch with friends before the conference and then go to the companies that interest you the most first.
 
    In the interest of time and accounting for the nature of a GHC career fair, it's best to choose option 2 for career opportunities and option 1 for grad school opportunities.
 
 ***
 
-The career fair (expo hall) runs from Wednesday to Friday. 
+The career fair (expo hall) runs from Wednesday to Friday.
 
 On Wednesday it opens at 11:30 am and closes at 5:30 pm.
 
@@ -190,11 +190,11 @@ Friday, from 9 am to 2pm.
 
 **Wednesday:**
 
-They keynote is Wednesday morning and then the career fair is open after. Many people may want to go to lunch soon after and then go to the career fair. 
+They keynote is Wednesday morning and then the career fair is open after. Many people may want to go to lunch soon after and then go to the career fair.
 
-**If you want to maximize your opportunities**, take advantage of this time on Wednesday and go to the career fair right after the keynote. Because top company booths usually get pretty swamped, you may have to deal with lines.  
+**If you want to maximize your opportunities**, take advantage of this time on Wednesday and go to the career fair right after the keynote. Because top company booths usually get pretty swamped, you may have to deal with lines.
 
-This is the day you want to spend the most time at the career fair so you can schedule interviews appropriately. Make a goal to land at least one interview from the career hall (or any number that's best for you) and pick up some swag along the way. 
+This is the day you want to spend the most time at the career fair so you can schedule interviews appropriately. Make a goal to land at least one interview from the career hall (or any number that's best for you) and pick up some swag along the way.
 
 Take 20 minute breaks to decompress and relax.
 
@@ -202,7 +202,7 @@ If you already have a couple of interviews scheduled, try to spend only half you
 
 If possible, make note of when you see crowds dying down (like during lunch, for example, may not happen) so you can use those times on Thursday.
 
-If you have an interview scheduled, make a point to introduce yourself to the people at the company booth you're interviewing with and let them know you're excited for the interview. 
+If you have an interview scheduled, make a point to introduce yourself to the people at the company booth you're interviewing with and let them know you're excited for the interview.
 
 **Thursday**:
 
@@ -220,7 +220,7 @@ If you feel you already have enough interviews scheduled, walk around the career
 
 **Avoid scheduling interviews back-to-back**. This will likely drain you and leave you exhausted and wanting to go back to your room.
 
-Leave at least 2 hours in between interviews so you can eat and relax before the next one. 
+Leave at least 2 hours in between interviews so you can eat and relax before the next one.
 
 **Avoid scheduling more than 2 or 3 interviews a day**. 3 is a lot for anyone as it could potentially be 3 hours all together of exercising your brain. However, you know yourself best and should understand your limits. Do the most you can and make time to decompress.
 
@@ -244,11 +244,11 @@ Once you've mastered your resume, review prep packages sent to you by companies 
 
 If you have at least a month left before GHC (at this point, you only have a week) try to do at least 2 easy and 2 medium hackerranks per day and throw in a couple of hard ones throughout the week if you can.
 
-Understand OOP principles and be able to explain them to a non-technical user. 
+Understand OOP principles and be able to explain them to a non-technical user.
 
 Additionally, brush up on basic syntax using the language you are most comfortable with. Not knowing a specific method in a class is fine but not ending a Java statement with a colon is harder to let slide.
 
-That said, try to stick to **one** programming language so you avoid crossing and confusing yourself during interviews. 
+That said, try to stick to **one** programming language so you avoid crossing and confusing yourself during interviews.
 
 **Cracking The Coding Interview** is the best book to narrow down specific questions to review.
 
@@ -258,7 +258,7 @@ That said, try to stick to **one** programming language so you avoid crossing an
 
 Do your research and know how to answer the **"Why this company?"** question. Know what the company does and go to their careers site to learn about their culture. Pick out the things you most connect with and share them as reasons you would like to work there.
 
-Be genuine with your answers. 
+Be genuine with your answers.
 
 The dreaded **"Tell me about yourself?"** question is an opportunity to share things that aren't on your resume like interesting hobbies and accomplishments as well as how your skills fit into the role you're applying to. In general this question really means "What's interesting about you and why should we hire you?"
 
@@ -268,7 +268,7 @@ You don't have to answer question right away. You can always say, "hmm, let me t
 
 If you need clarification, ask for it. Ask for a question to be repeated or better yet, repeat the question back to them in the way you understood it.
 
-For example, "Do you mean, X?" 
+For example, "Do you mean, X?"
 
 This allows the interviewer to review your understanding of the question and rephrase it if needed.
 
@@ -282,7 +282,7 @@ You also want to treat this as a conversation. Smile. Chuckle if the interviewer
 * What's your advice for anyone starting new at X company?
 * What traits describe someone who is excellent in this position? (_To gauge the kind of candidate they're looking for - you can piggy back off of this to let them know how you fit that profile_)
 
-This **is not** the ideal time to ask about compensation, relocation, etc. 
+This **is not** the ideal time to ask about compensation, relocation, etc.
 
 However, **you do**, want to ask questions that are important for you to learn about the company (typically also asked during an HR screening call).
 
@@ -294,8 +294,24 @@ Essentially, you want to ask questions that benefit you as well as questions tha
 
 **Avoid** sarcasm, jokes in poor taste, or anything you are doubtful about mentioning or saying that may seem inappropriate.
 
+## Self-Care
+
+GHC can be a overwhelming experiences. It's a large conference with 10,000+ people and although everyone will be spread out, it's perfectly normal to feel lost.
+
+If you start getting overwhelmed, take some time to regenerate and relax. Sit down and watch some funny videos, go through Instagram, do something mindless. Read a chapter of your favorite book. Call you mom to catch up during the conference. Take a nap. Eat a snack.
+
+Anything to get your energy back up. 
+
+You don't want to be drained halfway into the day so taking breaks is important to stay alert and focused.
+
+Keep your goals for the day in mind and drown out everything else.
+
+Create a chat group with friends at the conference so you all can meet up during breaks and talk about your experience so far.
+
+Share tips! Make more friends.
+
 ## Swag
 
-Finally, if you're there (partly) for the free stuff, this is for you. If you wait until the last day (Friday) an hour or so before the career fair closes, sponsors usually want to get rid of any swag they've brought with them. 
+Finally, if you're there (partly) for the free stuff, this is for you. If you wait until the last day (Friday) an hour or so before the career fair closes, sponsors usually want to get rid of any swag they've brought with them.
 
 Take them up on the offer! This is also a cool opportunity to make last minute connections.
