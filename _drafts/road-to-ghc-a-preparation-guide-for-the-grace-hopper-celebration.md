@@ -123,6 +123,26 @@ Anything that could trip security at the airport. I once brought 3-inch blunt sc
 * Don't pack uncomfortable shoes like high heels
 * Leave sharp scissors at home (see above)
 
+## Resumes
+
+Your resume is the most important representation of yourself. This is the only thing sponsors will have to go off of in the beginning before they meet you in person. 
+
+Make sure it shines, represents the best possible you, and works for what you're applying to.
+
+You may want to consider having different versions of your resume especially if you're considering different positions and have varying experience.
+
+For example, **if you're applying for business analyst positions** you want to highlight skills, accomplishments, and project aspects that emphasize skills necessary for a business analyst role.
+
+**If you're applying for software engineering**, make sure to include relevant skills and technologies you are **comfortable** speaking about.
+
+**Never** add any project, language, or technology to your resume that you are not comfortable talking about or explaining as you will inevitably be asked a question about it. 
+
+However, if you ran a handful of SQL queries in MySQL Workbench before but are not entirely familiar with SQL, don't add SQL to your list of languages and technologies. Instead, add what **you used SQL for** in the description of your project on your resume. 
+
+This is a way to say you've used the language or technology before but not completely familiar with the technology although you are capable of picking it up if given a more in-depth project.
+
+Lastly, **upload your revised resume to the GHC database a week and a few days before the conference.**
+
 ## Game Plan 
 
 Whether you're there for the talks and workshops or to land a job or internship, you need a game plan.
@@ -154,7 +174,7 @@ Once you have a list of the companies you're interested in, you have two options
 1. Order them by least interested to most interested and create a navigation path so that you are going first to the company you are interested in but okay with not getting an offer from them, and ending up last at the company you are **really** excited to join. This will give you an opportunity to get the jitters out and practice your elevator pitch.
 2. Alternatively, you can reverse this list and practice your elevator pitch with friends before the conference and then go to the companies that interest you the most first. 
 
-   In the interest of time, it's best to choose option 2 for career opportunities and option 1 for grad school opportunities.
+   In the interest of time and accounting for the nature of a GHC career fair, it's best to choose option 2 for career opportunities and option 1 for grad school opportunities.
 
 ***
 
@@ -196,7 +216,7 @@ If you feel you already have enough interviews scheduled, walk around the career
 
 **If you're maxed out on interviews**, and you've landed an offer you are strongly considering accepting, then enjoy the last day of the conference! Or not, up to you. :D
 
-#### Interviews
+## Interviews
 
 **Avoid scheduling interviews back-to-back**. This will likely drain you and leave you exhausted and wanting to go back to your room.
 
@@ -206,25 +226,73 @@ Leave at least 2 hours in between interviews so you can eat and relax before the
 
 Ideally, it is best to interview on-site as offers are usually given same-day or the day after. If you find yourself overwhelmed with interviews, let the rep know and ask if it can be moved to a later date.
 
-## Resumes
+**If you have not or are currently taking data structures**, let your interviewer know at, **not before the interview** so they can set their own expectations of what questions you should be able to answer completely.
 
-Your resume is the most important representation of yourself. This is the only thing sponsors will have to go off of in the beginning before they meet you in person. 
+## Interview Prep
 
-Make sure it shines, represents the best possible you, and works for what you're applying to.
+Study your resume really well and be prepared to be asked any question about what's on your resume. Here are questions I've been asked:
 
-You may want to consider having different versions of your resume especially if you're considering different positions and have varying experience.
+* Explain your GPA (It was a 3.7 instead of a 4.0)
+* Tell me more about this project and what was difficult about it?
+* What is the difference between Python and Java? (_Python is interpreted while Java is compiled. Although both compile to bytecode but Python's compilation is implicit because you don't invoke a compiler as you would in Java_)
 
-For example, **if you're applying for business analyst positions** you want to highlight skills, accomplishments, and project aspects that emphasize skills necessary for a business analyst role.
+Once you've mastered your resume, review prep packages sent to you by companies you're interviewing with and check out interview reports on Glassdoor to get a sense of what type of questions you'll be asked.
 
-**If you're applying for software engineering**, make sure to include relevant skills and technologies you are **comfortable** speaking about.
+#### Technical
 
-**Never** add any project or technology you are not comfortable talking about or explaining as you will inevitably be asked a question about it. 
+**If you are doing a technical interview**, and short on time, prepare for data structures and algorithms questions by reviewing Strings & Arrays in Hackerrank and be comfortable with at least two other data structures (Stacks, HashMaps, ArrayLists) that can be implemented efficiently to solve a variety of problems.
 
-However, if you ran a handful of SQL queries in MySQL Workbench before but are not entirely familiar with SQL, don't add SQL to your list of languages and technologies. Instead, add what **you used SQL for** in the description of your project on your resume. 
+If you have at least a month left before GHC (at this point, you only have a week) try to do at least 2 easy and 2 medium hackerranks per day and throw in a couple of hard ones throughout the week if you can.
 
-This is a way to say you've used the language or technology before but not completely familiar with the technology although you are capable of picking it up if given a more in-depth project.
+Understand OOP principles and be able to explain them to a non-technical user. 
 
-Lastly, **upload your revised resume to the GHC database a week and a few days before the conference.**
+Additionally, brush up on basic syntax using the language you are most comfortable with. Not knowing a specific method in a class is fine but not ending a Java statement with a colon is harder to let slide.
+
+That said, try to stick to **one** programming language so you avoid crossing and confusing yourself during interviews. 
+
+**Cracking The Coding Interview** is the best book to narrow down specific questions to review.
+
+#### Behavioral
+
+**If you're doing a behavioral interview**, understand they are geared toward learning more about you and how you communicate, as well as how you would fit in with their team or company.
+
+Do your research and know how to answer the **"Why this company?"** question. Know what the company does and go to their careers site to learn about their culture. Pick out the things you most connect with and share them as reasons you would like to work there.
+
+Be genuine with your answers. 
+
+The dreaded **"Tell me about yourself?"** question is an opportunity to share things that aren't on your resume like interesting hobbies and accomplishments as well as how your skills fit into the role you're applying to. In general this question really means "What's interesting about you and why should we hire you?"
+
+It's OK to be nervous.
+
+You don't have to answer question right away. You can always say, "hmm, let me think on this for a few seconds". Collect your thoughts and thoughtfully respond. You don't want to rush an answer you're not ready to give.
+
+If you need clarification, ask for it. Ask for a question to be repeated or better yet, repeat the question back to them in the way you understood it.
+
+For example, "Do you mean, X?" 
+
+This allows the interviewer to review your understanding of the question and rephrase it if needed.
+
+You also want to treat this as a conversation. Smile. Chuckle if the interviewer is funny. These are people just like you. They want to be connected in some way and find something to latch on to to make it easier to move you forward.
+
+**Ask thoughtful questions like:**
+
+* What's the best part about working at X company for you?
+* What led you to deciding to work at X company over any other company?
+* When did you start here and what's been the most interesting part of working here so far?
+* What's your advice for anyone starting new at X company?
+* What traits describe someone who is excellent in this position? (_To gauge the kind of candidate they're looking for - you can piggy back off of this to let them know how you fit that profile_)
+
+This **is not** the ideal time to ask about compensation, relocation, etc. 
+
+However, **you do**, want to ask questions that are important for you to learn about the company (typically also asked during an HR screening call).
+
+If you're interested in continued learning opportunities, ask about what their culture around continued learning is and what resources (if any) are available to employees looking to increase their technical knowledge.
+
+If you're interested in mentoring, ask if they have a mentoring structure in place or how interns/full-times get on-boarded.
+
+Essentially, you want to ask questions that benefit you as well as questions that connect with the interviewer as a person.
+
+**Avoid** sarcasm, jokes in poor taste, or anything you are doubtful about mentioning or saying that may seem inappropriate.
 
 ## Swag
 
