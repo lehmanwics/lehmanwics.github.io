@@ -9,6 +9,7 @@ tags : [meeting, event]
 ---
 
 Come talk about women in tech and computer science at the LC WiCS interest meeting on April 25th.
+
 <!--more-->
 
 The Lehman College Women in Computer Science (WiCS) club at Lehman College is a new club on campus created to bring together women interested in technology and computer science at the Lehman campus.
@@ -19,6 +20,8 @@ This interest meeting is intended to get to know you and learn more about what Y
 
 Pizza and refreshments will be served!
 
-<strong>Register Here: </strong> <a href="https://meetlcwics.splashthat.com/">https://meetlcwics.splashthat.com/</a>
+<strong>Register Here: </strong> 
+
+<a href="https://meetlcwics.splashthat.com/">https://meetlcwics.splashthat.com/</a>
 
 <img src="{{site.url}}/assets/images/flyer_event--wicsinterestmeeting.png">
