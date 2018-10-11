@@ -1,30 +1,37 @@
 <div class="eventwrapper">
-    {% assign event = site.data.events[0] %}
+  {% assign event = site.data.events[0] %}
 
-    <h2 class="upper">Our Next Event</h2>
-    <a href="#" class="meetup">{{ event.title }}</a>
-    <h3 class="group">{{ event.host }}</h3>
-    <p style="color:antiquewhite">
-        {{ event.description }}
-    </p>
-    <p class="details">
-      <span class="row">
-        <i class="material-icons md-36 icon">event</i>
-        <span class="row-item">
-        <time>{{ event.date_time }}</time>
-        </span>
+  <h2 class="upper">Our Next Event</h2>
+  <a href="#" class="meetup">{{ event.title }}</a>
+  <h3 class="group">{{ event.host }}</h3>
+  <p style="color:antiquewhite">
+      {{ event.description }}
+  </p>
+  <p class="details">
+    <span class="row">
+      <i class="material-icons md-36 icon">event</i>
+      <span class="row-item">
+      <time>{{ event.date | date: "%B %-d, %Y" }}</time>
       </span>
-  
-      <span class="row">
+    </span>
+
+    <span class="row">
+      <i class="material-icons md-36 icon">access_time</i>
+      <span class="row-item">
+      <time>{{ event.time }}</time>
+      </span>
+    </span>
+
+    <span class="row">
         <i class="material-icons md-36 icon">room</i>
         <span class="row-item">
         <strong>{{ event.location }}</strong>
         <br>{{ event.address }}
         </span>
       </span>
-    </p>
-    {% if event.rsvp_link %}
-    <a href="{{ event.rsvp_link }}" class="btn btn-lg btn-default-filled animated fadeInUp"
-    style="border: 1px solid #fff;"> RSVP </a>  
-    {% endif %}
+  </p>
+  {% if event.rsvp_link %}
+  <a href="{{ event.rsvp_link }}" class="btn btn-lg btn-default-filled animated fadeInUp"
+  style="border: 1px solid #fff;"> <strong>RSVP</strong> </a>  
+  {% endif %}
 </div>
