@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to go to Grace Hopper 2019 for free!"
-tagline: Instructions and Timeline for the GHC 2019 Scholarship
+tagline: Instructions for the AnitaB sponsored GHC 2019 Scholarship
 bgcolor: ff5a71
 keywords: guide, ghc, grace hopper celebration
 tags : [ghc, ghc scholarship, grace hopper celebration]
