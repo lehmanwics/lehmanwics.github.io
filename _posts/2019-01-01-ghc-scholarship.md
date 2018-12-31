@@ -10,6 +10,7 @@ tags : [ghc, ghc scholarship, grace hopper celebration]
 One of the best ways to attend the Grace Hopper Conference is through the conference's own scholarship as well! 
 This post will outline the timeline to get you on track with your application!
 
+Appliction Link: https://ssl.linklings.net/conferences/ghc-scholarships/
 <!--more-->
 
 Important Dates: 
@@ -22,27 +23,27 @@ The information below includes what comprises of the Grace Hopper Conference Stu
 
 ---
 Scholarship Includes:
-  * Individual registration for the three day conference
-  * Flight to Orlando to attend GHC, booked through AnitaB.org travel consultant
-  * Hotel accomodations arranged by AnitaB.org (assigned a roommate)
-  * GHC Stipend (previously $410 for students)
+    * Individual registration for the three day conference
+    * Flight to Orlando to attend GHC, booked through AnitaB.org travel consultant
+    * Hotel accomodations arranged by AnitaB.org (assigned a roommate)
+    * GHC Stipend (previously $410 for students)
 
 Scholarship Eligibility:
-  * Must be a full-time student at the time of application and at the time of celebration (October 2019)
-  * Demonstrate interest in computer science
-  * Cannot be a previous recipient in 2018
-  * Must be at least 18
-  * Cannot accept more than one scholarship to GHC
+    * Must be a full-time student at the time of application and at the time of celebration (October 2019)
+    * Demonstrate interest in computer science
+    * Cannot be a previous recipient in 2018
+    * Must be at least 18
+    * Cannot accept more than one scholarship to GHC
 
 Application Requirements:
-  * Contact Information
-  * Demographic Information 
-  * Education and Career Information
-  * Attendance and Scholarship Information
-  * **ESSAY QUESTIONS**
-  * CV / Resume
-  * Unofficial Transcript
-  * **RECOMMENDATION LETTER**
+    * Contact Information
+    * Demographic Information 
+    * Education and Career Information
+    * Attendance and Scholarship Information
+    * **ESSAY QUESTIONS**
+    * CV / Resume
+    * Unofficial Transcript
+    * **RECOMMENDATION LETTER**
 
 ---
 
