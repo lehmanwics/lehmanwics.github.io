@@ -33,6 +33,7 @@ lehmanwics.github.io/tags
 lehmanwics.github.io/team
 lehmanwics.github.io/typography
 
+lehmanwics.github.io/2019/01/01/ghc19-scholarship-guide
 lehmanwics.github.io/2018/09/16/road-to-ghc-a-preparation-guide-for-the-grace-hopper-celebration
 lehmanwics.github.io/2018/07/18/july-august-2018-events-opportunities
 lehmanwics.github.io/2018/05/26/june-events
